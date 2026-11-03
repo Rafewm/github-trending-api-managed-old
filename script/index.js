@@ -9,6 +9,7 @@ const axios = require('axios');
 const { parse } = require('./parse')
 const { BASE_URL, DATA_BASE_URL } = require('./base')
 const { save } = require('./save')
+const { addTrendshift } = require('./trendshift')
 
 const path = require('path');
 const { readFileSync } = require('fs');
@@ -75,4 +76,7 @@ function delay(ms) {
       console.error(`Error language ${convertToSlug(langObj.name)}:`, error);
     }
   }
+
+  // Runs after GitHub trending is saved, so it only adds repos missing from those files.
+  await addTrendshift()
 })();
