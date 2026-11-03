@@ -48,6 +48,8 @@ jobs:
           fi
           COMMIT_TIME=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           git commit -m "publish🚀: Fetch GitHub Trending at $COMMIT_TIME"
+          # The build takes ~30 minutes; replay this commit on anything pushed meanwhile.
+          git pull --rebase origin main
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
