@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Monthly Trending",
   "description": "Monthly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Nov 2026 01:39:42 GMT",
+  "pubDate": "Tue, 03 Nov 2026 17:11:54 GMT",
   "items": [
     {
       "title": "google/styleguide",
@@ -10,8 +10,8 @@
       "description": "Style guides for Google-originated open-source projects",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "39,791",
-      "forks": "12,923",
+      "stars": "39,790",
+      "forks": "12,922",
       "addStars": "189",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "2,661",
-      "forks": "367",
+      "stars": "2,665",
+      "forks": "368",
       "addStars": "85",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "2,027",
-      "forks": "259",
+      "stars": "2,029",
+      "forks": "261",
       "addStars": "113",
       "contributors": [
         {
@@ -148,50 +148,13 @@
       ]
     },
     {
-      "title": "syl20bnr/spacemacs",
-      "url": "https://github.com/syl20bnr/spacemacs",
-      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "24,549",
-      "forks": "4,822",
-      "addStars": "29",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1243537?s=40&v=4",
-          "name": "syl20bnr",
-          "url": "https://github.com/syl20bnr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18098560?s=40&v=4",
-          "name": "smile13241324",
-          "url": "https://github.com/smile13241324"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/619375?s=40&v=4",
-          "name": "TheBB",
-          "url": "https://github.com/TheBB"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1898905?s=40&v=4",
-          "name": "JAremko",
-          "url": "https://github.com/JAremko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1239097?s=40&v=4",
-          "name": "bcc32",
-          "url": "https://github.com/bcc32"
-        }
-      ]
-    },
-    {
       "title": "dakra/ghostel",
       "url": "https://github.com/dakra/ghostel",
       "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "1,088",
-      "forks": "74",
+      "stars": "1,090",
+      "forks": "75",
       "addStars": "119",
       "contributors": [
         {
@@ -222,13 +185,50 @@
       ]
     },
     {
+      "title": "syl20bnr/spacemacs",
+      "url": "https://github.com/syl20bnr/spacemacs",
+      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "24,550",
+      "forks": "4,821",
+      "addStars": "29",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1243537?s=40&v=4",
+          "name": "syl20bnr",
+          "url": "https://github.com/syl20bnr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18098560?s=40&v=4",
+          "name": "smile13241324",
+          "url": "https://github.com/smile13241324"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/619375?s=40&v=4",
+          "name": "TheBB",
+          "url": "https://github.com/TheBB"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1898905?s=40&v=4",
+          "name": "JAremko",
+          "url": "https://github.com/JAremko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1239097?s=40&v=4",
+          "name": "bcc32",
+          "url": "https://github.com/bcc32"
+        }
+      ]
+    },
+    {
       "title": "emacs-mirror/emacs",
       "url": "https://github.com/emacs-mirror/emacs",
       "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": "5,240",
-      "forks": "1,420",
+      "forks": "1,421",
       "addStars": "39",
       "contributors": [
         {

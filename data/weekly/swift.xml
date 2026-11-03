@@ -3,45 +3,7 @@
     <title>GitHub Swift Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Swift Languages in GitHub</description>
-    <pubDate>Tue, 03 Nov 2026 01:39:42 GMT</pubDate>
-    <item>
-      <title>krahets/hello-algo</title>
-      <link>https://github.com/krahets/hello-algo</link>
-      <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现</description>
-      <guid>https://github.com/krahets/hello-algo</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>131,891</stars>
-      <forks>15,599</forks>
-      <addStars>704</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26993056?s=40&amp;v=4</avatar>
-          <name>krahets</name>
-          <url>https://github.com/krahets</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24556310?s=40&amp;v=4</avatar>
-          <name>justin-tse</name>
-          <url>https://github.com/justin-tse</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3739017?s=40&amp;v=4</avatar>
-          <name>nuomi1</name>
-          <url>https://github.com/nuomi1</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39959756?s=40&amp;v=4</avatar>
-          <name>Gonglja</name>
-          <url>https://github.com/Gonglja</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/99076655?s=40&amp;v=4</avatar>
-          <name>coderonion</name>
-          <url>https://github.com/coderonion</url>
-        </contributor>
-      </contributors>
-    </item>
+    <pubDate>Tue, 03 Nov 2026 17:11:54 GMT</pubDate>
     <item>
       <title>1lck/Lithe-IDEA</title>
       <link>https://github.com/1lck/Lithe-IDEA</link>
@@ -49,8 +11,8 @@
       <guid>https://github.com/1lck/Lithe-IDEA</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>2,456</stars>
-      <forks>214</forks>
+      <stars>2,480</stars>
+      <forks>215</forks>
       <addStars>242</addStars>
       <contributors>
         <contributor>
@@ -81,35 +43,40 @@
       </contributors>
     </item>
     <item>
-      <title>pauljoda/Crest</title>
-      <link>https://github.com/pauljoda/Crest</link>
-      <description>An open source browser for Mac, iPhone, and iPad.</description>
-      <guid>https://github.com/pauljoda/Crest</guid>
+      <title>krahets/hello-algo</title>
+      <link>https://github.com/krahets/hello-algo</link>
+      <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现</description>
+      <guid>https://github.com/krahets/hello-algo</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>1,067</stars>
-      <forks>101</forks>
-      <addStars>231</addStars>
+      <stars>131,907</stars>
+      <forks>15,604</forks>
+      <addStars>704</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3199533?s=40&amp;v=4</avatar>
-          <name>pauljoda</name>
-          <url>https://github.com/pauljoda</url>
+          <avatar>https://avatars.githubusercontent.com/u/26993056?s=40&amp;v=4</avatar>
+          <name>krahets</name>
+          <url>https://github.com/krahets</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32437363?s=40&amp;v=4</avatar>
-          <name>hcbille</name>
-          <url>https://github.com/hcbille</url>
+          <avatar>https://avatars.githubusercontent.com/u/24556310?s=40&amp;v=4</avatar>
+          <name>justin-tse</name>
+          <url>https://github.com/justin-tse</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/78013800?s=40&amp;v=4</avatar>
-          <name>sam32j</name>
-          <url>https://github.com/sam32j</url>
+          <avatar>https://avatars.githubusercontent.com/u/3739017?s=40&amp;v=4</avatar>
+          <name>nuomi1</name>
+          <url>https://github.com/nuomi1</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31996?s=40&amp;v=4</avatar>
-          <name>avelino</name>
-          <url>https://github.com/avelino</url>
+          <avatar>https://avatars.githubusercontent.com/u/39959756?s=40&amp;v=4</avatar>
+          <name>Gonglja</name>
+          <url>https://github.com/Gonglja</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/99076655?s=40&amp;v=4</avatar>
+          <name>coderonion</name>
+          <url>https://github.com/coderonion</url>
         </contributor>
       </contributors>
     </item>
@@ -120,8 +87,8 @@
       <guid>https://github.com/vorssaint/vorssaint-utils</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>32,609</stars>
-      <forks>1,590</forks>
+      <stars>32,742</stars>
+      <forks>1,599</forks>
       <addStars>2,522</addStars>
       <contributors>
         <contributor>
@@ -152,74 +119,13 @@
       </contributors>
     </item>
     <item>
-      <title>farzaa/clicky</title>
-      <link>https://github.com/farzaa/clicky</link>
-      <description>The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com</description>
-      <guid>https://github.com/farzaa/clicky</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>7,913</stars>
-      <forks>1,586</forks>
-      <addStars>126</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15614124?s=40&amp;v=4</avatar>
-          <name>farzaa</name>
-          <url>https://github.com/farzaa</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/260729474?s=40&amp;v=4</avatar>
-          <name>oz-agent</name>
-          <url>https://github.com/oz-agent</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>momenbasel/PureMac</title>
-      <link>https://github.com/momenbasel/PureMac</link>
-      <description>Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.</description>
-      <guid>https://github.com/momenbasel/PureMac</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>7,599</stars>
-      <forks>442</forks>
-      <addStars>177</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8724766?s=40&amp;v=4</avatar>
-          <name>momenbasel</name>
-          <url>https://github.com/momenbasel</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/79738961?s=40&amp;v=4</avatar>
-          <name>zeck00</name>
-          <url>https://github.com/zeck00</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1768446?s=40&amp;v=4</avatar>
-          <name>balcsida</name>
-          <url>https://github.com/balcsida</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>robinebers/openusage</title>
       <link>https://github.com/robinebers/openusage</link>
       <description>Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.</description>
       <guid>https://github.com/robinebers/openusage</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>4,523</stars>
+      <stars>4,528</stars>
       <forks>526</forks>
       <addStars>78</addStars>
       <contributors>
@@ -246,35 +152,162 @@
       </contributors>
     </item>
     <item>
-      <title>Ebullioscopic/Atoll</title>
-      <link>https://github.com/Ebullioscopic/Atoll</link>
-      <description>Dynamic Island for macOS</description>
-      <guid>https://github.com/Ebullioscopic/Atoll</guid>
+      <title>farzaa/clicky</title>
+      <link>https://github.com/farzaa/clicky</link>
+      <description>The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com</description>
+      <guid>https://github.com/farzaa/clicky</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>5,162</stars>
-      <forks>361</forks>
-      <addStars>100</addStars>
+      <stars>7,916</stars>
+      <forks>1,588</forks>
+      <addStars>126</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/83903166?s=40&amp;v=4</avatar>
-          <name>Ebullioscopic</name>
-          <url>https://github.com/Ebullioscopic</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/208484073?s=40&amp;v=4</avatar>
-          <name>vastien</name>
-          <url>https://github.com/vastien</url>
+          <avatar>https://avatars.githubusercontent.com/u/15614124?s=40&amp;v=4</avatar>
+          <name>farzaa</name>
+          <url>https://github.com/farzaa</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/86867971?s=40&amp;v=4</avatar>
-          <name>StudioKeys</name>
-          <url>https://github.com/StudioKeys</url>
+          <avatar>https://avatars.githubusercontent.com/u/260729474?s=40&amp;v=4</avatar>
+          <name>oz-agent</name>
+          <url>https://github.com/oz-agent</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>momenbasel/PureMac</title>
+      <link>https://github.com/momenbasel/PureMac</link>
+      <description>Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.</description>
+      <guid>https://github.com/momenbasel/PureMac</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>7,613</stars>
+      <forks>442</forks>
+      <addStars>177</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8724766?s=40&amp;v=4</avatar>
+          <name>momenbasel</name>
+          <url>https://github.com/momenbasel</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/79738961?s=40&amp;v=4</avatar>
+          <name>zeck00</name>
+          <url>https://github.com/zeck00</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1768446?s=40&amp;v=4</avatar>
+          <name>balcsida</name>
+          <url>https://github.com/balcsida</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>JohnCoates/Aerial</title>
+      <link>https://github.com/JohnCoates/Aerial</link>
+      <description>Apple TV Aerial Screensaver for Mac</description>
+      <guid>https://github.com/JohnCoates/Aerial</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>21,191</stars>
+      <forks>1,049</forks>
+      <addStars>85</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37544189?s=40&amp;v=4</avatar>
+          <name>glouel</name>
+          <url>https://github.com/glouel</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/967800?s=40&amp;v=4</avatar>
+          <name>JohnCoates</name>
+          <url>https://github.com/JohnCoates</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4295?s=40&amp;v=4</avatar>
+          <name>aitor</name>
+          <url>https://github.com/aitor</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/44180668?s=40&amp;v=4</avatar>
+          <name>MystycTrolls</name>
+          <url>https://github.com/MystycTrolls</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18543749?s=40&amp;v=4</avatar>
+          <name>ZV00</name>
+          <url>https://github.com/ZV00</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>HD838A/remote-mic-app</title>
+      <link>https://github.com/HD838A/remote-mic-app</link>
+      <description>无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备</description>
+      <guid>https://github.com/HD838A/remote-mic-app</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>2,358</stars>
+      <forks>251</forks>
+      <addStars>249</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/126734171?s=40&amp;v=4</avatar>
+          <name>HD838A</name>
+          <url>https://github.com/HD838A</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/996292?s=40&amp;v=4</avatar>
+          <name>Channe</name>
+          <url>https://github.com/Channe</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>pauljoda/Crest</title>
+      <link>https://github.com/pauljoda/Crest</link>
+      <description>An open source browser for Mac, iPhone, and iPad.</description>
+      <guid>https://github.com/pauljoda/Crest</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>1,077</stars>
+      <forks>101</forks>
+      <addStars>231</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3199533?s=40&amp;v=4</avatar>
+          <name>pauljoda</name>
+          <url>https://github.com/pauljoda</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32437363?s=40&amp;v=4</avatar>
+          <name>hcbille</name>
+          <url>https://github.com/hcbille</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/78013800?s=40&amp;v=4</avatar>
+          <name>sam32j</name>
+          <url>https://github.com/sam32j</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31996?s=40&amp;v=4</avatar>
+          <name>avelino</name>
+          <url>https://github.com/avelino</url>
         </contributor>
       </contributors>
     </item>
@@ -285,7 +318,7 @@
       <guid>https://github.com/groue/GRDB.swift</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>8,722</stars>
+      <stars>8,721</stars>
       <forks>1,098</forks>
       <addStars>15</addStars>
       <contributors>
@@ -317,25 +350,68 @@
       </contributors>
     </item>
     <item>
-      <title>HD838A/remote-mic-app</title>
-      <link>https://github.com/HD838A/remote-mic-app</link>
-      <description>无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备</description>
-      <guid>https://github.com/HD838A/remote-mic-app</guid>
+      <title>manaflow-ai/cmux</title>
+      <link>https://github.com/manaflow-ai/cmux</link>
+      <description>Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.</description>
+      <guid>https://github.com/manaflow-ai/cmux</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>2,310</stars>
-      <forks>248</forks>
-      <addStars>249</addStars>
+      <stars>28,672</stars>
+      <forks>2,620</forks>
+      <addStars>168</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/126734171?s=40&amp;v=4</avatar>
-          <name>HD838A</name>
-          <url>https://github.com/HD838A</url>
+          <avatar>https://avatars.githubusercontent.com/u/54008264?s=40&amp;v=4</avatar>
+          <name>lawrencecchen</name>
+          <url>https://github.com/lawrencecchen</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/996292?s=40&amp;v=4</avatar>
-          <name>Channe</name>
-          <url>https://github.com/Channe</url>
+          <avatar>https://avatars.githubusercontent.com/u/38676809?s=40&amp;v=4</avatar>
+          <name>austinywang</name>
+          <url>https://github.com/austinywang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13091533?s=40&amp;v=4</avatar>
+          <name>teamleaderleo</name>
+          <url>https://github.com/teamleaderleo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/67667005?s=40&amp;v=4</avatar>
+          <name>azooz2003-bit</name>
+          <url>https://github.com/azooz2003-bit</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Ebullioscopic/Atoll</title>
+      <link>https://github.com/Ebullioscopic/Atoll</link>
+      <description>Dynamic Island for macOS</description>
+      <guid>https://github.com/Ebullioscopic/Atoll</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>5,171</stars>
+      <forks>365</forks>
+      <addStars>100</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/83903166?s=40&amp;v=4</avatar>
+          <name>Ebullioscopic</name>
+          <url>https://github.com/Ebullioscopic</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/208484073?s=40&amp;v=4</avatar>
+          <name>vastien</name>
+          <url>https://github.com/vastien</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/86867971?s=40&amp;v=4</avatar>
+          <name>StudioKeys</name>
+          <url>https://github.com/StudioKeys</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -351,8 +427,8 @@
       <guid>https://github.com/LiveContainer/LiveContainer</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>13,747</stars>
-      <forks>1,268</forks>
+      <stars>13,770</stars>
+      <forks>1,272</forks>
       <addStars>323</addStars>
       <contributors>
         <contributor>
@@ -383,118 +459,14 @@
       </contributors>
     </item>
     <item>
-      <title>LoopKit/Loop</title>
-      <link>https://github.com/LoopKit/Loop</link>
-      <description>An automated insulin delivery app for iOS, built on LoopKit</description>
-      <guid>https://github.com/LoopKit/Loop</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>1,753</stars>
-      <forks>1,451</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14649?s=40&amp;v=4</avatar>
-          <name>ps2</name>
-          <url>https://github.com/ps2</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/212876?s=40&amp;v=4</avatar>
-          <name>loudnate</name>
-          <url>https://github.com/loudnate</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/152359?s=40&amp;v=4</avatar>
-          <name>nhamming</name>
-          <url>https://github.com/nhamming</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19607791?s=40&amp;v=4</avatar>
-          <name>marionbarker</name>
-          <url>https://github.com/marionbarker</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2769158?s=40&amp;v=4</avatar>
-          <name>Camji55</name>
-          <url>https://github.com/Camji55</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>TheBoredTeam/boring.notch</title>
-      <link>https://github.com/TheBoredTeam/boring.notch</link>
-      <description>TheBoringNotch: Not so boring notch That Rocks 🎸🎶</description>
-      <guid>https://github.com/TheBoredTeam/boring.notch</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>11,245</stars>
-      <forks>1,180</forks>
-      <addStars>109</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33609792?s=40&amp;v=4</avatar>
-          <name>Alexander5015</name>
-          <url>https://github.com/Alexander5015</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46974223?s=40&amp;v=4</avatar>
-          <name>theboringhumane</name>
-          <url>https://github.com/theboringhumane</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/58087998?s=40&amp;v=4</avatar>
-          <name>richardkunkli</name>
-          <url>https://github.com/richardkunkli</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96822675?s=40&amp;v=4</avatar>
-          <name>OmChachad</name>
-          <url>https://github.com/OmChachad</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>carloslfu/slotstream</title>
-      <link>https://github.com/carloslfu/slotstream</link>
-      <description>Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Apple Silicon Macs. Fully native Swift, MLX and Metal. Offline, no Python. CLI, Swift library, and Ollama/OpenAI/Anthropic APIs. Works with Claude Code and Codex.</description>
-      <guid>https://github.com/carloslfu/slotstream</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>645</stars>
-      <forks>54</forks>
-      <addStars>104</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5993168?s=40&amp;v=4</avatar>
-          <name>carloslfu</name>
-          <url>https://github.com/carloslfu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24597095?s=40&amp;v=4</avatar>
-          <name>spikezz</name>
-          <url>https://github.com/spikezz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/294532706?s=40&amp;v=4</avatar>
-          <name>Pybsama</name>
-          <url>https://github.com/Pybsama</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/82156740?s=40&amp;v=4</avatar>
-          <name>msx98</name>
-          <url>https://github.com/msx98</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>osaurus-ai/osaurus</title>
       <link>https://github.com/osaurus-ai/osaurus</link>
       <description>Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.</description>
       <guid>https://github.com/osaurus-ai/osaurus</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>8,104</stars>
-      <forks>489</forks>
+      <stars>8,105</stars>
+      <forks>491</forks>
       <addStars>33</addStars>
       <contributors>
         <contributor>
@@ -518,6 +490,296 @@
           <url>https://github.com/mimeding</url>
         </contributor>
       </contributors>
+    </item>
+    <item>
+      <title>milika/SmartTubeIOS</title>
+      <link>https://github.com/milika/SmartTubeIOS</link>
+      <description>Native Swift/SwiftUI YouTube client for iPhone, iPad, Apple TV &amp; Mac — ad-free, SponsorBlock, DeArrow, Google sign-in, up to 8K. Open source.</description>
+      <guid>https://github.com/milika/SmartTubeIOS</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>537</stars>
+      <forks>81</forks>
+      <addStars>43</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1072578?s=40&amp;v=4</avatar>
+          <name>milika</name>
+          <url>https://github.com/milika</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/201099299?s=40&amp;v=4</avatar>
+          <name>MilikaBetsson</name>
+          <url>https://github.com/MilikaBetsson</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/856013?s=40&amp;v=4</avatar>
+          <name>artifactdev</name>
+          <url>https://github.com/artifactdev</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20226905?s=40&amp;v=4</avatar>
+          <name>dennis-menge</name>
+          <url>https://github.com/dennis-menge</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>jryang1997/MenuBarMijia</title>
+      <link>https://github.com/jryang1997/MenuBarMijia</link>
+      <description>Control Xiaomi Mijia from your Mac menu bar or Windows tray. Home Assistant supported on macOS.</description>
+      <guid>https://github.com/jryang1997/MenuBarMijia</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>779</stars>
+      <forks>46</forks>
+      <addStars>315</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>fxgl/steamac</title>
+      <link>https://github.com/fxgl/steamac</link>
+      <description>Valve's official ARM64 SteamOS in a lightweight VM on Apple Silicon: libkrun + Venus + MoltenVK, controllers, CoreAudio sound</description>
+      <guid>https://github.com/fxgl/steamac</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>1,461</stars>
+      <forks>54</forks>
+      <addStars>223</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>daveebbelaar/bama</title>
+      <link>https://github.com/daveebbelaar/bama</link>
+      <description>BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.</description>
+      <guid>https://github.com/daveebbelaar/bama</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>1,451</stars>
+      <forks>180</forks>
+      <addStars>146</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>lingyired/status-trio</title>
+      <link>https://github.com/lingyired/status-trio</link>
+      <description>Status Trio — a native macOS app that combines Wi-Fi, battery, and volume into one compact, configurable status icon for the menu bar, the Dock, or both, inspired by the iPhone Duo combined status bar.</description>
+      <guid>https://github.com/lingyired/status-trio</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>1,382</stars>
+      <forks>66</forks>
+      <addStars>132</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Jarvis322/macos-sysdata</title>
+      <link>https://github.com/Jarvis322/macos-sysdata</link>
+      <description>See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.</description>
+      <guid>https://github.com/Jarvis322/macos-sysdata</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>1,743</stars>
+      <forks>67</forks>
+      <addStars>126</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>joeblau/subvox</title>
+      <link>https://github.com/joeblau/subvox</link>
+      <description/>
+      <guid>https://github.com/joeblau/subvox</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>672</stars>
+      <forks>88</forks>
+      <addStars>109</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>tang1693/KIKUmap</title>
+      <link>https://github.com/tang1693/KIKUmap</link>
+      <description>A mind map for your Claude chats — macOS menu-bar app</description>
+      <guid>https://github.com/tang1693/KIKUmap</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>318</stars>
+      <forks>100</forks>
+      <addStars>90</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>xtool-org/xtool</title>
+      <link>https://github.com/xtool-org/xtool</link>
+      <description>Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.</description>
+      <guid>https://github.com/xtool-org/xtool</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>14,533</stars>
+      <forks>810</forks>
+      <addStars>104</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>abue-ammar/tinycast</title>
+      <link>https://github.com/abue-ammar/tinycast</link>
+      <description>Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.</description>
+      <guid>https://github.com/abue-ammar/tinycast</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>9,071</stars>
+      <forks>607</forks>
+      <addStars>79</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>nano-muse/nanoMuse</title>
+      <link>https://github.com/nano-muse/nanoMuse</link>
+      <description>nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.</description>
+      <guid>https://github.com/nano-muse/nanoMuse</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>3,063</stars>
+      <forks>368</forks>
+      <addStars>94</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>0xCodez/pulsr</title>
+      <link>https://github.com/0xCodez/pulsr</link>
+      <description>Pulsr — open-source recovery, strain and sleep coach for Apple Watch. Liquid Glass UI, on-device, no subscription.</description>
+      <guid>https://github.com/0xCodez/pulsr</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>36</stars>
+      <forks>0</forks>
+      <addStars>38</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>muhraufan/robodust</title>
+      <link>https://github.com/muhraufan/robodust</link>
+      <description>A fun way to clean up your desktop mess</description>
+      <guid>https://github.com/muhraufan/robodust</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>46</stars>
+      <forks>0</forks>
+      <addStars>38</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>caezium/burrow</title>
+      <link>https://github.com/caezium/burrow</link>
+      <description>🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents.</description>
+      <guid>https://github.com/caezium/burrow</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>1,679</stars>
+      <forks>202</forks>
+      <addStars>43</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>jaywcjlove/awesome-mac</title>
+      <link>https://github.com/jaywcjlove/awesome-mac</link>
+      <description> This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.</description>
+      <guid>https://github.com/jaywcjlove/awesome-mac</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>117,619</stars>
+      <forks>10,082</forks>
+      <addStars>73</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>alpcanaydin/rexmod</title>
+      <link>https://github.com/alpcanaydin/rexmod</link>
+      <description>Turn Rex into a harness for your coding agent: see what it changed, review it in Neovim, send comments back. Claude Code, Codex, OpenCode, Pi.</description>
+      <guid>https://github.com/alpcanaydin/rexmod</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>34</stars>
+      <forks>2</forks>
+      <addStars>20</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>rossark0/rossark-motion-skill</title>
+      <link>https://github.com/rossark0/rossark-motion-skill</link>
+      <description>Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.</description>
+      <guid>https://github.com/rossark0/rossark-motion-skill</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>636</stars>
+      <forks>42</forks>
+      <addStars>48</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>l984-451/Rivulet</title>
+      <link>https://github.com/l984-451/Rivulet</link>
+      <description>A native Apple TV app for Plex, Jellyfin, and Live TV</description>
+      <guid>https://github.com/l984-451/Rivulet</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>237</stars>
+      <forks>30</forks>
+      <addStars>46</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>orkunisitmak/nashi-app</title>
+      <link>https://github.com/orkunisitmak/nashi-app</link>
+      <description>Independent open-source file toolkit inspired by Tangerine, with added web downloads, QR reading and editing workflows. / Tangerine’den ilham alan, yeni özelliklerle geliştirilen bağımsız açık kaynak dosya aracı.</description>
+      <guid>https://github.com/orkunisitmak/nashi-app</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>614</stars>
+      <forks>173</forks>
+      <addStars>56</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>AGIHunt/blurt</title>
+      <link>https://github.com/AGIHunt/blurt</link>
+      <description>The keyboard for the agent era: dictation, copy text from screen, translation, snaps and screen recordings for Claude Code, Codex and your other agents. Free, open source, Mac. 口喷鸡：Agent 时代的输入法。</description>
+      <guid>https://github.com/AGIHunt/blurt</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>241</stars>
+      <forks>21</forks>
+      <addStars>42</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>wesbos/3d-model-anything</title>
+      <link>https://github.com/wesbos/3d-model-anything</link>
+      <description>Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.</description>
+      <guid>https://github.com/wesbos/3d-model-anything</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>2,654</stars>
+      <forks>397</forks>
+      <addStars>56</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Lakr233/vphone-cli</title>
+      <link>https://github.com/Lakr233/vphone-cli</link>
+      <description>Run a virtual iPhone on an Apple Silicon Mac.</description>
+      <guid>https://github.com/Lakr233/vphone-cli</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>16,403</stars>
+      <forks>2,021</forks>
+      <addStars>52</addStars>
+      <contributors/>
     </item>
   </channel>
 </rss>

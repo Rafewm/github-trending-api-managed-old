@@ -2,8 +2,45 @@
   "title": "GitHub Coffeescript Languages Weekly Trending",
   "description": "Weekly Trending of Coffeescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Nov 2026 01:39:42 GMT",
+  "pubDate": "Tue, 03 Nov 2026 17:11:54 GMT",
   "items": [
+    {
+      "title": "mojs/mojs",
+      "url": "https://github.com/mojs/mojs",
+      "description": "The motion graphics toolbelt for the web",
+      "language": "CoffeeScript",
+      "languageColor": "#244776",
+      "stars": "18,875",
+      "forks": "901",
+      "addStars": "40",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1478800?s=40&v=4",
+          "name": "legomushroom",
+          "url": "https://github.com/legomushroom"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2471223?s=40&v=4",
+          "name": "xavierfoucrier",
+          "url": "https://github.com/xavierfoucrier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5272401?s=40&v=4",
+          "name": "Sandstedt",
+          "url": "https://github.com/Sandstedt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44454?s=40&v=4",
+          "name": "indolering",
+          "url": "https://github.com/indolering"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1638325?s=40&v=4",
+          "name": "kostasx",
+          "url": "https://github.com/kostasx"
+        }
+      ]
+    },
     {
       "title": "jashkenas/coffeescript",
       "url": "https://github.com/jashkenas/coffeescript",
@@ -42,80 +79,6 @@
       ]
     },
     {
-      "title": "mojs/mojs",
-      "url": "https://github.com/mojs/mojs",
-      "description": "The motion graphics toolbelt for the web",
-      "language": "CoffeeScript",
-      "languageColor": "#244776",
-      "stars": "18,873",
-      "forks": "900",
-      "addStars": "40",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1478800?s=40&v=4",
-          "name": "legomushroom",
-          "url": "https://github.com/legomushroom"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2471223?s=40&v=4",
-          "name": "xavierfoucrier",
-          "url": "https://github.com/xavierfoucrier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5272401?s=40&v=4",
-          "name": "Sandstedt",
-          "url": "https://github.com/Sandstedt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44454?s=40&v=4",
-          "name": "indolering",
-          "url": "https://github.com/indolering"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1638325?s=40&v=4",
-          "name": "kostasx",
-          "url": "https://github.com/kostasx"
-        }
-      ]
-    },
-    {
-      "title": "dropbox/zxcvbn",
-      "url": "https://github.com/dropbox/zxcvbn",
-      "description": "Low-Budget Password Strength Estimation",
-      "language": "CoffeeScript",
-      "languageColor": "#244776",
-      "stars": "16,074",
-      "forks": "1,002",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1173635?s=40&v=4",
-          "name": "lowe",
-          "url": "https://github.com/lowe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/903179?s=40&v=4",
-          "name": "nmalkin",
-          "url": "https://github.com/nmalkin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3046407?s=40&v=4",
-          "name": "studds",
-          "url": "https://github.com/studds"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/149171?s=40&v=4",
-          "name": "tomsommer",
-          "url": "https://github.com/tomsommer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/161006?s=40&v=4",
-          "name": "luuuis",
-          "url": "https://github.com/luuuis"
-        }
-      ]
-    },
-    {
       "title": "ccd0/4chan-x",
       "url": "https://github.com/ccd0/4chan-x",
       "description": "Adds various features to anonymous imageboards.",
@@ -149,6 +112,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/765015?s=40&v=4",
           "name": "seaweedchan",
           "url": "https://github.com/seaweedchan"
+        }
+      ]
+    },
+    {
+      "title": "dropbox/zxcvbn",
+      "url": "https://github.com/dropbox/zxcvbn",
+      "description": "Low-Budget Password Strength Estimation",
+      "language": "CoffeeScript",
+      "languageColor": "#244776",
+      "stars": "16,077",
+      "forks": "1,003",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1173635?s=40&v=4",
+          "name": "lowe",
+          "url": "https://github.com/lowe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/903179?s=40&v=4",
+          "name": "nmalkin",
+          "url": "https://github.com/nmalkin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3046407?s=40&v=4",
+          "name": "studds",
+          "url": "https://github.com/studds"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/149171?s=40&v=4",
+          "name": "tomsommer",
+          "url": "https://github.com/tomsommer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/161006?s=40&v=4",
+          "name": "luuuis",
+          "url": "https://github.com/luuuis"
         }
       ]
     }

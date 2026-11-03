@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Weekly Trending",
   "description": "Weekly Trending of Elixir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Nov 2026 01:39:42 GMT",
+  "pubDate": "Tue, 03 Nov 2026 17:11:54 GMT",
   "items": [
     {
       "title": "elixir-lang/elixir",
@@ -10,7 +10,7 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "26,701",
+      "stars": "26,700",
       "forks": "3,753",
       "addStars": "11",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "23,212",
-      "forks": "3,247",
+      "stars": "23,213",
+      "forks": "3,248",
       "addStars": "12",
       "contributors": [
         {
@@ -70,38 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/4116351?s=40&v=4",
           "name": "SteffenDE",
           "url": "https://github.com/SteffenDE"
-        }
-      ]
-    },
-    {
-      "title": "teslamate-org/teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "9,224",
-      "forks": "1,039",
-      "addStars": "37",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8999358?s=40&v=4",
-          "name": "adriankumpf",
-          "url": "https://github.com/adriankumpf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16510328?s=40&v=4",
-          "name": "JakobLichterfeld",
-          "url": "https://github.com/JakobLichterfeld"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2990373?s=40&v=4",
-          "name": "swiffer",
-          "url": "https://github.com/swiffer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
         }
       ]
     },
@@ -148,7 +116,7 @@
       "description": "Your platform team, as a service",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "5,860",
+      "stars": "5,857",
       "forks": "781",
       "addStars": "12",
       "contributors": [
@@ -166,6 +134,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/663605?s=40&v=4",
           "name": "pepicrft",
           "url": "https://github.com/pepicrft"
+        }
+      ]
+    },
+    {
+      "title": "firezone/firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Blazing-fast remote access",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "9,163",
+      "forks": "466",
+      "addStars": "33",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/167144?s=40&v=4",
+          "name": "jamilbk",
+          "url": "https://github.com/jamilbk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5486389?s=40&v=4",
+          "name": "thomaseizinger",
+          "url": "https://github.com/thomaseizinger"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1877644?s=40&v=4",
+          "name": "AndrewDryga",
+          "url": "https://github.com/AndrewDryga"
         }
       ]
     },
@@ -207,45 +207,13 @@
       ]
     },
     {
-      "title": "firezone/firezone",
-      "url": "https://github.com/firezone/firezone",
-      "description": "Blazing-fast remote access",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "9,160",
-      "forks": "466",
-      "addStars": "33",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/167144?s=40&v=4",
-          "name": "jamilbk",
-          "url": "https://github.com/jamilbk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5486389?s=40&v=4",
-          "name": "thomaseizinger",
-          "url": "https://github.com/thomaseizinger"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1877644?s=40&v=4",
-          "name": "AndrewDryga",
-          "url": "https://github.com/AndrewDryga"
-        }
-      ]
-    },
-    {
       "title": "kieraneglin/pinchflat",
       "url": "https://github.com/kieraneglin/pinchflat",
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "5,439",
-      "forks": "189",
+      "stars": "5,441",
+      "forks": "190",
       "addStars": "22",
       "contributors": [
         {
@@ -272,38 +240,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/271673?s=40&v=4",
           "name": "ddacunha",
           "url": "https://github.com/ddacunha"
-        }
-      ]
-    },
-    {
-      "title": "plausible/analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "29,752",
-      "forks": "1,928",
-      "addStars": "89",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3731516?s=40&v=4",
-          "name": "ukutaht",
-          "url": "https://github.com/ukutaht"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/173738?s=40&v=4",
-          "name": "aerosol",
-          "url": "https://github.com/aerosol"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/588351?s=40&v=4",
-          "name": "zoldar",
-          "url": "https://github.com/zoldar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56999674?s=40&v=4",
-          "name": "RobertJoonas",
-          "url": "https://github.com/RobertJoonas"
         }
       ]
     },
@@ -345,6 +281,38 @@
       ]
     },
     {
+      "title": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "9,228",
+      "forks": "1,039",
+      "addStars": "37",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8999358?s=40&v=4",
+          "name": "adriankumpf",
+          "url": "https://github.com/adriankumpf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16510328?s=40&v=4",
+          "name": "JakobLichterfeld",
+          "url": "https://github.com/JakobLichterfeld"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2990373?s=40&v=4",
+          "name": "swiffer",
+          "url": "https://github.com/swiffer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "elixir-lsp/elixir-ls",
       "url": "https://github.com/elixir-lsp/elixir-ls",
       "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
@@ -382,6 +350,75 @@
       ]
     },
     {
+      "title": "plausible/analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "29,760",
+      "forks": "1,930",
+      "addStars": "89",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3731516?s=40&v=4",
+          "name": "ukutaht",
+          "url": "https://github.com/ukutaht"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/173738?s=40&v=4",
+          "name": "aerosol",
+          "url": "https://github.com/aerosol"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/588351?s=40&v=4",
+          "name": "zoldar",
+          "url": "https://github.com/zoldar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56999674?s=40&v=4",
+          "name": "RobertJoonas",
+          "url": "https://github.com/RobertJoonas"
+        }
+      ]
+    },
+    {
+      "title": "supabase/realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "7,675",
+      "forks": "479",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1172600?s=40&v=4",
+          "name": "abc3",
+          "url": "https://github.com/abc3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1697301?s=40&v=4",
+          "name": "filipecabaco",
+          "url": "https://github.com/filipecabaco"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5532241?s=40&v=4",
+          "name": "w3b6x9",
+          "url": "https://github.com/w3b6x9"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1019814?s=40&v=4",
+          "name": "chasers",
+          "url": "https://github.com/chasers"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30873?s=40&v=4",
+          "name": "edgurgel",
+          "url": "https://github.com/edgurgel"
+        }
+      ]
+    },
+    {
       "title": "elixir-lsp/elixir_sense",
       "url": "https://github.com/elixir-lsp/elixir_sense",
       "description": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
@@ -415,75 +452,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/9973?s=40&v=4",
           "name": "axelson",
           "url": "https://github.com/axelson"
-        }
-      ]
-    },
-    {
-      "title": "supabase/realtime",
-      "url": "https://github.com/supabase/realtime",
-      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "7,674",
-      "forks": "479",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1172600?s=40&v=4",
-          "name": "abc3",
-          "url": "https://github.com/abc3"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1697301?s=40&v=4",
-          "name": "filipecabaco",
-          "url": "https://github.com/filipecabaco"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5532241?s=40&v=4",
-          "name": "w3b6x9",
-          "url": "https://github.com/w3b6x9"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1019814?s=40&v=4",
-          "name": "chasers",
-          "url": "https://github.com/chasers"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30873?s=40&v=4",
-          "name": "edgurgel",
-          "url": "https://github.com/edgurgel"
-        }
-      ]
-    },
-    {
-      "title": "blockscout/blockscout",
-      "url": "https://github.com/blockscout/blockscout",
-      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "4,775",
-      "forks": "3,213",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4341812?s=40&v=4",
-          "name": "vbaranov",
-          "url": "https://github.com/vbaranov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6567687?s=40&v=4",
-          "name": "ayrat555",
-          "url": "https://github.com/ayrat555"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32202610?s=40&v=4",
-          "name": "nikitosing",
-          "url": "https://github.com/nikitosing"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/298259?s=40&v=4",
-          "name": "KronicDeth",
-          "url": "https://github.com/KronicDeth"
         }
       ]
     }

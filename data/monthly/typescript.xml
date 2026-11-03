@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Tue, 03 Nov 2026 01:39:42 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 17:11:54 GMT</pubDate>
     <item>
       <title>morluto/rea</title>
       <link>https://github.com/morluto/rea</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/morluto/rea</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>423,146</stars>
-      <forks>105,506</forks>
+      <stars>426,174</stars>
+      <forks>106,115</forks>
       <addStars>422,104</addStars>
       <contributors>
         <contributor>
@@ -43,52 +43,14 @@
       </contributors>
     </item>
     <item>
-      <title>tester-army/e2e</title>
-      <link>https://github.com/tester-army/e2e</link>
-      <description>Next generation e2e testing framework for web and mobile apps.</description>
-      <guid>https://github.com/tester-army/e2e</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>12,644</stars>
-      <forks>655</forks>
-      <addStars>11,344</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52801365?s=40&amp;v=4</avatar>
-          <name>okwasniewski</name>
-          <url>https://github.com/okwasniewski</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39658211?s=40&amp;v=4</avatar>
-          <name>kacperkapusciak</name>
-          <url>https://github.com/kacperkapusciak</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4</avatar>
-          <name>rudycelekli</name>
-          <url>https://github.com/rudycelekli</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/83216158?s=40&amp;v=4</avatar>
-          <name>KrzysztofMoch</name>
-          <url>https://github.com/KrzysztofMoch</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>heygen-com/hyperframes</title>
       <link>https://github.com/heygen-com/hyperframes</link>
       <description>Write HTML. Render video. Built for agents.</description>
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>77,762</stars>
-      <forks>7,148</forks>
+      <stars>78,205</stars>
+      <forks>7,207</forks>
       <addStars>22,290</addStars>
       <contributors>
         <contributor>
@@ -125,8 +87,8 @@
       <guid>https://github.com/ranxianglei/billion-context</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,724</stars>
-      <forks>310</forks>
+      <stars>3,865</stars>
+      <forks>323</forks>
       <addStars>3,213</addStars>
       <contributors>
         <contributor>
@@ -158,8 +120,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>110,790</stars>
-      <forks>9,661</forks>
+      <stars>111,592</stars>
+      <forks>9,722</forks>
       <addStars>15,681</addStars>
       <contributors>
         <contributor>
@@ -196,8 +158,8 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>42,066</stars>
-      <forks>9,108</forks>
+      <stars>43,791</stars>
+      <forks>9,205</forks>
       <addStars>15,731</addStars>
       <contributors>
         <contributor>
@@ -228,25 +190,25 @@
       </contributors>
     </item>
     <item>
-      <title>michael-denyer/pstack-claude</title>
-      <link>https://github.com/michael-denyer/pstack-claude</link>
-      <description>Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.</description>
-      <guid>https://github.com/michael-denyer/pstack-claude</guid>
+      <title>tester-army/e2e</title>
+      <link>https://github.com/tester-army/e2e</link>
+      <description>Next generation e2e testing framework for web and mobile apps.</description>
+      <guid>https://github.com/tester-army/e2e</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,806</stars>
-      <forks>346</forks>
-      <addStars>3,018</addStars>
+      <stars>12,798</stars>
+      <forks>668</forks>
+      <addStars>11,344</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/97485362?s=40&amp;v=4</avatar>
-          <name>michael-denyer</name>
-          <url>https://github.com/michael-denyer</url>
+          <avatar>https://avatars.githubusercontent.com/u/52801365?s=40&amp;v=4</avatar>
+          <name>okwasniewski</name>
+          <url>https://github.com/okwasniewski</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/257484394?s=40&amp;v=4</avatar>
-          <name>EthanYoQ</name>
-          <url>https://github.com/EthanYoQ</url>
+          <avatar>https://avatars.githubusercontent.com/u/39658211?s=40&amp;v=4</avatar>
+          <name>kacperkapusciak</name>
+          <url>https://github.com/kacperkapusciak</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -254,14 +216,14 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3153107?s=40&amp;v=4</avatar>
-          <name>younes-io</name>
-          <url>https://github.com/younes-io</url>
+          <avatar>https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4</avatar>
+          <name>rudycelekli</name>
+          <url>https://github.com/rudycelekli</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13261778?s=40&amp;v=4</avatar>
-          <name>harrymunro</name>
-          <url>https://github.com/harrymunro</url>
+          <avatar>https://avatars.githubusercontent.com/u/83216158?s=40&amp;v=4</avatar>
+          <name>KrzysztofMoch</name>
+          <url>https://github.com/KrzysztofMoch</url>
         </contributor>
       </contributors>
     </item>
@@ -272,8 +234,8 @@
       <guid>https://github.com/mksglu/context-mode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>33,290</stars>
-      <forks>2,296</forks>
+      <stars>33,354</stars>
+      <forks>2,298</forks>
       <addStars>8,531</addStars>
       <contributors>
         <contributor>
@@ -305,8 +267,8 @@
       <guid>https://github.com/tashfeenahmed/freellmapi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>46,429</stars>
-      <forks>6,339</forks>
+      <stars>46,897</stars>
+      <forks>6,408</forks>
       <addStars>16,329</addStars>
       <contributors>
         <contributor>
@@ -337,14 +299,90 @@
       </contributors>
     </item>
     <item>
+      <title>michael-denyer/pstack-claude</title>
+      <link>https://github.com/michael-denyer/pstack-claude</link>
+      <description>Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.</description>
+      <guid>https://github.com/michael-denyer/pstack-claude</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>3,872</stars>
+      <forks>352</forks>
+      <addStars>3,018</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/97485362?s=40&amp;v=4</avatar>
+          <name>michael-denyer</name>
+          <url>https://github.com/michael-denyer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/257484394?s=40&amp;v=4</avatar>
+          <name>EthanYoQ</name>
+          <url>https://github.com/EthanYoQ</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3153107?s=40&amp;v=4</avatar>
+          <name>younes-io</name>
+          <url>https://github.com/younes-io</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13261778?s=40&amp;v=4</avatar>
+          <name>harrymunro</name>
+          <url>https://github.com/harrymunro</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Vincentwei1021/video-shotcraft</title>
+      <link>https://github.com/Vincentwei1021/video-shotcraft</link>
+      <description>AI video skill for Claude Code &amp; Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench &amp; JianYing (CapCut CN) export.</description>
+      <guid>https://github.com/Vincentwei1021/video-shotcraft</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>16,469</stars>
+      <forks>1,559</forks>
+      <addStars>6,275</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18239147?s=40&amp;v=4</avatar>
+          <name>Vincentwei1021</name>
+          <url>https://github.com/Vincentwei1021</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15373810?s=40&amp;v=4</avatar>
+          <name>skyzhao1223</name>
+          <url>https://github.com/skyzhao1223</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/255364023?s=40&amp;v=4</avatar>
+          <name>sarff0</name>
+          <url>https://github.com/sarff0</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/152970?s=40&amp;v=4</avatar>
+          <name>xiaolai</name>
+          <url>https://github.com/xiaolai</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>vercel-labs/skills</title>
       <link>https://github.com/vercel-labs/skills</link>
       <description>The open agent skills tool - npx skills</description>
       <guid>https://github.com/vercel-labs/skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>37,816</stars>
-      <forks>3,270</forks>
+      <stars>37,929</stars>
+      <forks>3,281</forks>
       <addStars>4,956</addStars>
       <contributors>
         <contributor>
@@ -370,14 +408,47 @@
       </contributors>
     </item>
     <item>
+      <title>remotion-dev/remotion</title>
+      <link>https://github.com/remotion-dev/remotion</link>
+      <description>🎥 Make videos programmatically with React</description>
+      <guid>https://github.com/remotion-dev/remotion</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>70,387</stars>
+      <forks>5,796</forks>
+      <addStars>8,701</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4</avatar>
+          <name>JonnyBurger</name>
+          <url>https://github.com/JonnyBurger</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24735429?s=40&amp;v=4</avatar>
+          <name>samohovets</name>
+          <url>https://github.com/samohovets</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/89481679?s=40&amp;v=4</avatar>
+          <name>patsalv</name>
+          <url>https://github.com/patsalv</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>cursor/plugins</title>
       <link>https://github.com/cursor/plugins</link>
       <description>Cursor plugin specification and official plugins</description>
       <guid>https://github.com/cursor/plugins</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,148</stars>
-      <forks>1,564</forks>
+      <stars>15,218</stars>
+      <forks>1,572</forks>
       <addStars>5,776</addStars>
       <contributors>
         <contributor>
@@ -414,8 +485,8 @@
       <guid>https://github.com/supabase/supabase</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>114,455</stars>
-      <forks>15,773</forks>
+      <stars>114,479</stars>
+      <forks>15,785</forks>
       <addStars>3,783</addStars>
       <contributors>
         <contributor>
@@ -446,47 +517,14 @@
       </contributors>
     </item>
     <item>
-      <title>remotion-dev/remotion</title>
-      <link>https://github.com/remotion-dev/remotion</link>
-      <description>🎥 Make videos programmatically with React</description>
-      <guid>https://github.com/remotion-dev/remotion</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>70,117</stars>
-      <forks>5,774</forks>
-      <addStars>8,701</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4</avatar>
-          <name>JonnyBurger</name>
-          <url>https://github.com/JonnyBurger</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24735429?s=40&amp;v=4</avatar>
-          <name>samohovets</name>
-          <url>https://github.com/samohovets</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/89481679?s=40&amp;v=4</avatar>
-          <name>patsalv</name>
-          <url>https://github.com/patsalv</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>anthropics/sandbox-runtime</title>
       <link>https://github.com/anthropics/sandbox-runtime</link>
       <description>A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.</description>
       <guid>https://github.com/anthropics/sandbox-runtime</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,927</stars>
-      <forks>616</forks>
+      <stars>6,942</stars>
+      <forks>617</forks>
       <addStars>1,519</addStars>
       <contributors>
         <contributor>
@@ -517,14 +555,47 @@
       </contributors>
     </item>
     <item>
+      <title>ruvnet/ruflo</title>
+      <link>https://github.com/ruvnet/ruflo</link>
+      <description>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</description>
+      <guid>https://github.com/ruvnet/ruflo</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>80,770</stars>
+      <forks>9,487</forks>
+      <addStars>7,325</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
+          <name>ruvnet</name>
+          <url>https://github.com/ruvnet</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4</avatar>
+          <name>rudycelekli</name>
+          <url>https://github.com/rudycelekli</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/214853444?s=40&amp;v=4</avatar>
+          <name>proffesor-for-testing</name>
+          <url>https://github.com/proffesor-for-testing</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>mvschwarz/openrig</title>
       <link>https://github.com/mvschwarz/openrig</link>
       <description>Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.</description>
       <guid>https://github.com/mvschwarz/openrig</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,562</stars>
-      <forks>707</forks>
+      <stars>8,580</stars>
+      <forks>710</forks>
       <addStars>4,470</addStars>
       <contributors>
         <contributor>
@@ -555,47 +626,14 @@
       </contributors>
     </item>
     <item>
-      <title>ruvnet/ruflo</title>
-      <link>https://github.com/ruvnet/ruflo</link>
-      <description>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</description>
-      <guid>https://github.com/ruvnet/ruflo</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>80,666</stars>
-      <forks>9,474</forks>
-      <addStars>7,325</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
-          <name>ruvnet</name>
-          <url>https://github.com/ruvnet</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4</avatar>
-          <name>rudycelekli</name>
-          <url>https://github.com/rudycelekli</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/214853444?s=40&amp;v=4</avatar>
-          <name>proffesor-for-testing</name>
-          <url>https://github.com/proffesor-for-testing</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>chthollyphile/folia-major</title>
       <link>https://github.com/chthollyphile/folia-major</link>
-      <description>专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器</description>
+      <description>专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 A multi-platform music player for local files, Navidrome, and online streaming services, featuring stunning animated lyrics.</description>
       <guid>https://github.com/chthollyphile/folia-major</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,280</stars>
-      <forks>1,246</forks>
+      <stars>11,432</stars>
+      <forks>1,263</forks>
       <addStars>8,131</addStars>
       <contributors>
         <contributor>
@@ -627,8 +665,8 @@
       <guid>https://github.com/gitroomhq/postiz-app</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>40,730</stars>
-      <forks>7,755</forks>
+      <stars>40,791</stars>
+      <forks>7,769</forks>
       <addStars>4,220</addStars>
       <contributors>
         <contributor>
@@ -665,8 +703,8 @@
       <guid>https://github.com/LibreSpark/LibreTV</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>23,351</stars>
-      <forks>30,649</forks>
+      <stars>23,450</stars>
+      <forks>30,686</forks>
       <addStars>9,556</addStars>
       <contributors>
         <contributor>
@@ -692,14 +730,47 @@
       </contributors>
     </item>
     <item>
+      <title>Renhuai123/ziwei-doushu</title>
+      <link>https://github.com/Renhuai123/ziwei-doushu</link>
+      <description>紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据</description>
+      <guid>https://github.com/Renhuai123/ziwei-doushu</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>14,903</stars>
+      <forks>2,893</forks>
+      <addStars>10,143</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/91890238?s=40&amp;v=4</avatar>
+          <name>Renhuai123</name>
+          <url>https://github.com/Renhuai123</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/189696476?s=40&amp;v=4</avatar>
+          <name>HelloWorld3326</name>
+          <url>https://github.com/HelloWorld3326</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/289346330?s=40&amp;v=4</avatar>
+          <name>sakura168899-debug</name>
+          <url>https://github.com/sakura168899-debug</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>makecindy/cindy</title>
       <link>https://github.com/makecindy/cindy</link>
       <description>Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。</description>
       <guid>https://github.com/makecindy/cindy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,019</stars>
-      <forks>1,089</forks>
+      <stars>9,134</stars>
+      <forks>1,107</forks>
       <addStars>6,252</addStars>
       <contributors>
         <contributor>
@@ -730,42 +801,208 @@
       </contributors>
     </item>
     <item>
-      <title>thesysdev/openui</title>
-      <link>https://github.com/thesysdev/openui</link>
-      <description>The Open Standard for Generative UI</description>
-      <guid>https://github.com/thesysdev/openui</guid>
+      <title>deepseek-ai/dsh-superagent-prototype</title>
+      <link>https://github.com/deepseek-ai/dsh-superagent-prototype</link>
+      <description>Towards a More Autonomous Agent System</description>
+      <guid>https://github.com/deepseek-ai/dsh-superagent-prototype</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>14,700</stars>
-      <forks>965</forks>
-      <addStars>4,788</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/173032156?s=40&amp;v=4</avatar>
-          <name>i-subham23</name>
-          <url>https://github.com/i-subham23</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/55152006?s=40&amp;v=4</avatar>
-          <name>AbhinRustagi</name>
-          <url>https://github.com/AbhinRustagi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/173031316?s=40&amp;v=4</avatar>
-          <name>ankit-thesys</name>
-          <url>https://github.com/ankit-thesys</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/27266434?s=40&amp;v=4</avatar>
-          <name>zahlekhan</name>
-          <url>https://github.com/zahlekhan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/157345590?s=40&amp;v=4</avatar>
-          <name>abhithesys</name>
-          <url>https://github.com/abhithesys</url>
-        </contributor>
-      </contributors>
+      <stars>13,371</stars>
+      <forks>1,221</forks>
+      <addStars>11,735</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>l0ng-ai/openidea</title>
+      <link>https://github.com/l0ng-ai/openidea</link>
+      <description>The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.</description>
+      <guid>https://github.com/l0ng-ai/openidea</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>5,033</stars>
+      <forks>371</forks>
+      <addStars>3,276</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>modelflare-ai/AnyModelBot</title>
+      <link>https://github.com/modelflare-ai/AnyModelBot</link>
+      <description>🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.</description>
+      <guid>https://github.com/modelflare-ai/AnyModelBot</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>1,407</stars>
+      <forks>14</forks>
+      <addStars>1,438</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>benjitaylor/skills</title>
+      <link>https://github.com/benjitaylor/skills</link>
+      <description>Skills for AI coding agents</description>
+      <guid>https://github.com/benjitaylor/skills</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>919</stars>
+      <forks>32</forks>
+      <addStars>910</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>deepseek-ai/deepseek-harness</title>
+      <link>https://github.com/deepseek-ai/deepseek-harness</link>
+      <description>DeepSeek Harness: Everything is a Plugin.</description>
+      <guid>https://github.com/deepseek-ai/deepseek-harness</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>269,819</stars>
+      <forks>34,893</forks>
+      <addStars>2,434</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>milind-soni/OpenMausBot</title>
+      <link>https://github.com/milind-soni/OpenMausBot</link>
+      <description>Open-source Grok Bot alternative with a virtual machine that bots can use</description>
+      <guid>https://github.com/milind-soni/OpenMausBot</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>11,317</stars>
+      <forks>1,582</forks>
+      <addStars>1,763</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>stablyai/orca</title>
+      <link>https://github.com/stablyai/orca</link>
+      <description>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</description>
+      <guid>https://github.com/stablyai/orca</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>113,702</stars>
+      <forks>7,911</forks>
+      <addStars>2,025</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>mromidev/claude-animated-shorts</title>
+      <link>https://github.com/mromidev/claude-animated-shorts</link>
+      <description>Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion</description>
+      <guid>https://github.com/mromidev/claude-animated-shorts</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>652</stars>
+      <forks>120</forks>
+      <addStars>602</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>CNCKitchen/ScanRuler</title>
+      <link>https://github.com/CNCKitchen/ScanRuler</link>
+      <description/>
+      <guid>https://github.com/CNCKitchen/ScanRuler</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>742</stars>
+      <forks>121</forks>
+      <addStars>459</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>paperclipai/paperclip</title>
+      <link>https://github.com/paperclipai/paperclip</link>
+      <description>The open-source app everyone uses to manage agents at work</description>
+      <guid>https://github.com/paperclipai/paperclip</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>110,461</stars>
+      <forks>19,570</forks>
+      <addStars>1,028</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>anhao/ai-pose-gallery-zh</title>
+      <link>https://github.com/anhao/ai-pose-gallery-zh</link>
+      <description>中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊</description>
+      <guid>https://github.com/anhao/ai-pose-gallery-zh</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>5,503</stars>
+      <forks>1,386</forks>
+      <addStars>886</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Squarebow/Orfeo</title>
+      <link>https://github.com/Squarebow/Orfeo</link>
+      <description>A modern piano-learning and MIDI visualization desktop app for Windows — falling notes, interactive chord &amp; scale explorers, real-time chord detection. From MIDI to mastery.</description>
+      <guid>https://github.com/Squarebow/Orfeo</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>408</stars>
+      <forks>28</forks>
+      <addStars>255</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>CopilotKit/OpenBot</title>
+      <link>https://github.com/CopilotKit/OpenBot</link>
+      <description>Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.</description>
+      <guid>https://github.com/CopilotKit/OpenBot</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>9,918</stars>
+      <forks>1,294</forks>
+      <addStars>784</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>spotify/portal-ai-plugins</title>
+      <link>https://github.com/spotify/portal-ai-plugins</link>
+      <description/>
+      <guid>https://github.com/spotify/portal-ai-plugins</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>2,880</stars>
+      <forks>222</forks>
+      <addStars>356</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>cheaper-inference/OmniRoute</title>
+      <link>https://github.com/cheaper-inference/OmniRoute</link>
+      <description>Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors</description>
+      <guid>https://github.com/cheaper-inference/OmniRoute</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>84,009</stars>
+      <forks>13,685</forks>
+      <addStars>782</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>D3voz/openjutsu</title>
+      <link>https://github.com/D3voz/openjutsu</link>
+      <description>One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3.</description>
+      <guid>https://github.com/D3voz/openjutsu</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>1,255</stars>
+      <forks>174</forks>
+      <addStars>498</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>rerun-build/rerun</title>
+      <link>https://github.com/rerun-build/rerun</link>
+      <description>AI coworkers that run your work. Self-hostable, AGPL-3.0.</description>
+      <guid>https://github.com/rerun-build/rerun</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>252</stars>
+      <forks>0</forks>
+      <addStars>273</addStars>
+      <contributors/>
     </item>
   </channel>
 </rss>

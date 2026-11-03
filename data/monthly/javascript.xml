@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Javascript Languages in GitHub</description>
-    <pubDate>Tue, 03 Nov 2026 01:39:42 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 17:11:54 GMT</pubDate>
     <item>
       <title>cloudflare/security-audit-skill</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>57,429</stars>
-      <forks>3,734</forks>
+      <stars>57,996</stars>
+      <forks>3,779</forks>
       <addStars>33,474</addStars>
       <contributors>
         <contributor>
@@ -39,8 +39,8 @@
       <guid>https://github.com/Leonxlnx/taste-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>108,763</stars>
-      <forks>7,321</forks>
+      <stars>109,352</stars>
+      <forks>7,366</forks>
       <addStars>16,952</addStars>
       <contributors>
         <contributor>
@@ -71,47 +71,14 @@
       </contributors>
     </item>
     <item>
-      <title>affaan-m/ECC</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <description>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
-      <guid>https://github.com/affaan-m/ECC</guid>
-      <language>JavaScript</language>
-      <languageColor>#f1e05a</languageColor>
-      <stars>295,699</stars>
-      <forks>43,748</forks>
-      <addStars>26,123</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4</avatar>
-          <name>affaan-m</name>
-          <url>https://github.com/affaan-m</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/49814733?s=40&amp;v=4</avatar>
-          <name>haelyra</name>
-          <url>https://github.com/haelyra</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24193489?s=40&amp;v=4</avatar>
-          <name>montjeffrey</name>
-          <url>https://github.com/montjeffrey</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>addyosmani/agent-skills</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <description>Production-grade engineering skills for AI coding agents.</description>
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>112,837</stars>
-      <forks>11,813</forks>
+      <stars>112,990</stars>
+      <forks>11,828</forks>
       <addStars>12,792</addStars>
       <contributors>
         <contributor>
@@ -142,14 +109,47 @@
       </contributors>
     </item>
     <item>
+      <title>affaan-m/ECC</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <description>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
+      <guid>https://github.com/affaan-m/ECC</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>296,314</stars>
+      <forks>43,825</forks>
+      <addStars>26,123</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4</avatar>
+          <name>affaan-m</name>
+          <url>https://github.com/affaan-m</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/49814733?s=40&amp;v=4</avatar>
+          <name>haelyra</name>
+          <url>https://github.com/haelyra</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24193489?s=40&amp;v=4</avatar>
+          <name>montjeffrey</name>
+          <url>https://github.com/montjeffrey</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>DuarteSantos8/openGym</title>
       <link>https://github.com/DuarteSantos8/openGym</link>
       <description>Open-source gym &amp; body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.</description>
       <guid>https://github.com/DuarteSantos8/openGym</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>18,896</stars>
-      <forks>2,495</forks>
+      <stars>19,065</stars>
+      <forks>2,522</forks>
       <addStars>17,321</addStars>
       <contributors>
         <contributor>
@@ -173,9 +173,9 @@
           <url>https://github.com/gerrydoro</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1579152?s=40&amp;v=4</avatar>
-          <name>sgoendoer</name>
-          <url>https://github.com/sgoendoer</url>
+          <avatar>https://avatars.githubusercontent.com/u/290709289?s=40&amp;v=4</avatar>
+          <name>Space-Hermes</name>
+          <url>https://github.com/Space-Hermes</url>
         </contributor>
       </contributors>
     </item>
@@ -186,8 +186,8 @@
       <guid>https://github.com/hmjz100/LinkSwift</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>37,445</stars>
-      <forks>2,674</forks>
+      <stars>37,631</stars>
+      <forks>2,689</forks>
       <addStars>16,662</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/withmarbleapp/os-taxonomy</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>7,517</stars>
-      <forks>1,217</forks>
+      <stars>7,551</stars>
+      <forks>1,228</forks>
       <addStars>2,975</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/mnfst/awesome-free-llm-apis</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>12,008</stars>
-      <forks>1,389</forks>
+      <stars>12,071</stars>
+      <forks>1,398</forks>
       <addStars>3,068</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/mrdoob/three.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>117,447</stars>
-      <forks>36,896</forks>
+      <stars>117,488</stars>
+      <forks>36,902</forks>
       <addStars>1,610</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/algorithm-visualizer/algorithm-visualizer</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>49,384</stars>
-      <forks>7,649</forks>
+      <stars>49,388</stars>
+      <forks>7,646</forks>
       <addStars>588</addStars>
       <contributors>
         <contributor>
@@ -371,8 +371,8 @@
       <guid>https://github.com/sveltejs/svelte</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>88,537</stars>
-      <forks>6,853</forks>
+      <stars>88,543</stars>
+      <forks>6,852</forks>
       <addStars>738</addStars>
       <contributors>
         <contributor>
@@ -404,8 +404,8 @@
       <guid>https://github.com/PenglongHuang/chinese-novelist-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>4,598</stars>
-      <forks>620</forks>
+      <stars>4,621</stars>
+      <forks>621</forks>
       <addStars>1,357</addStars>
       <contributors>
         <contributor>
@@ -432,8 +432,8 @@
       <guid>https://github.com/qist/tvbox</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>12,557</stars>
-      <forks>4,379</forks>
+      <stars>12,586</stars>
+      <forks>4,385</forks>
       <addStars>988</addStars>
       <contributors>
         <contributor>
@@ -460,8 +460,8 @@
       <guid>https://github.com/nodejs/node</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>123,202</stars>
-      <forks>38,767</forks>
+      <stars>123,207</stars>
+      <forks>38,770</forks>
       <addStars>2,207</addStars>
       <contributors>
         <contributor>
@@ -490,6 +490,258 @@
           <url>https://github.com/isaacs</url>
         </contributor>
       </contributors>
+    </item>
+    <item>
+      <title>patch-gg/pixelfx</title>
+      <link>https://github.com/patch-gg/pixelfx</link>
+      <description>232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.</description>
+      <guid>https://github.com/patch-gg/pixelfx</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>3,571</stars>
+      <forks>441</forks>
+      <addStars>2,200</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>heydamir/unslop</title>
+      <link>https://github.com/heydamir/unslop</link>
+      <description>A Claude skill that turns vibecoded, AI-looking UI into a designed interface</description>
+      <guid>https://github.com/heydamir/unslop</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>6,313</stars>
+      <forks>295</forks>
+      <addStars>2,982</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>haydenschmitty/floorplan</title>
+      <link>https://github.com/haydenschmitty/floorplan</link>
+      <description>See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude.</description>
+      <guid>https://github.com/haydenschmitty/floorplan</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>2,254</stars>
+      <forks>145</forks>
+      <addStars>1,465</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Ebony-Vinyl/dsh-our-free-model</title>
+      <link>https://github.com/Ebony-Vinyl/dsh-our-free-model</link>
+      <description>在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.</description>
+      <guid>https://github.com/Ebony-Vinyl/dsh-our-free-model</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>57,432</stars>
+      <forks>1,630</forks>
+      <addStars>3,223</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>elvarofficial/teardown</title>
+      <link>https://github.com/elvarofficial/teardown</link>
+      <description>A Claude Code skill that turns any machine into a 3D simulator you can take apart</description>
+      <guid>https://github.com/elvarofficial/teardown</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>1,276</stars>
+      <forks>177</forks>
+      <addStars>913</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>DeanChensj/jiangshan-map</title>
+      <link>https://github.com/DeanChensj/jiangshan-map</link>
+      <description>江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes</description>
+      <guid>https://github.com/DeanChensj/jiangshan-map</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>3,565</stars>
+      <forks>412</forks>
+      <addStars>1,525</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Orkas-AI/Orkas</title>
+      <link>https://github.com/Orkas-AI/Orkas</link>
+      <description>Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.</description>
+      <guid>https://github.com/Orkas-AI/Orkas</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>7,716</stars>
+      <forks>485</forks>
+      <addStars>1,689</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>YuJunZhiXue/dsh-purge</title>
+      <link>https://github.com/YuJunZhiXue/dsh-purge</link>
+      <description>DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分</description>
+      <guid>https://github.com/YuJunZhiXue/dsh-purge</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>16,326</stars>
+      <forks>5,714</forks>
+      <addStars>1,766</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>NiazMorshed2007/reanimate</title>
+      <link>https://github.com/NiazMorshed2007/reanimate</link>
+      <description>A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.</description>
+      <guid>https://github.com/NiazMorshed2007/reanimate</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>962</stars>
+      <forks>82</forks>
+      <addStars>511</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>DietrichGebert/ponytail</title>
+      <link>https://github.com/DietrichGebert/ponytail</link>
+      <description>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
+      <guid>https://github.com/DietrichGebert/ponytail</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>182,925</stars>
+      <forks>10,599</forks>
+      <addStars>1,472</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>yetone/alma-relay</title>
+      <link>https://github.com/yetone/alma-relay</link>
+      <description>Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.</description>
+      <guid>https://github.com/yetone/alma-relay</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>411</stars>
+      <forks>40</forks>
+      <addStars>322</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>lemomo-ai/lemo-opuscar</title>
+      <link>https://github.com/lemomo-ai/lemo-opuscar</link>
+      <description>A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：66 种现成风格，也能做出你自己的</description>
+      <guid>https://github.com/lemomo-ai/lemo-opuscar</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>11,220</stars>
+      <forks>1,258</forks>
+      <addStars>1,114</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Gezine/CivSwitch</title>
+      <link>https://github.com/Gezine/CivSwitch</link>
+      <description>Nintendo Switch userland code execution using Civilization 7 game cartridge</description>
+      <guid>https://github.com/Gezine/CivSwitch</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>488</stars>
+      <forks>85</forks>
+      <addStars>313</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>laike9m/TheySay</title>
+      <link>https://github.com/laike9m/TheySay</link>
+      <description>TheySay - All the Voices on One Screen</description>
+      <guid>https://github.com/laike9m/TheySay</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>348</stars>
+      <forks>1</forks>
+      <addStars>347</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>sleepy-zone/char-db-cn</title>
+      <link>https://github.com/sleepy-zone/char-db-cn</link>
+      <description>二次元角色换装库 · 中文版（发型 / 服装 / 姿势 / 组装）</description>
+      <guid>https://github.com/sleepy-zone/char-db-cn</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>317</stars>
+      <forks>39</forks>
+      <addStars>295</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>wheresryan22/anatomy</title>
+      <link>https://github.com/wheresryan22/anatomy</link>
+      <description>An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.</description>
+      <guid>https://github.com/wheresryan22/anatomy</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>24,158</stars>
+      <forks>2,023</forks>
+      <addStars>811</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>InukaAsith/TwinDesk</title>
+      <link>https://github.com/InukaAsith/TwinDesk</link>
+      <description> All your computers and your phone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications, mouse and keyboard, shared between Mac, Windows, Linux and Android. Free and open source. No account, no cloud, and now no shared network needed.</description>
+      <guid>https://github.com/InukaAsith/TwinDesk</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>3,029</stars>
+      <forks>219</forks>
+      <addStars>640</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Leonxlnx/athenaion</title>
+      <link>https://github.com/Leonxlnx/athenaion</link>
+      <description>A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)</description>
+      <guid>https://github.com/Leonxlnx/athenaion</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>668</stars>
+      <forks>85</forks>
+      <addStars>354</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Centiplatrap/pc-game-fps-doctor</title>
+      <link>https://github.com/Centiplatrap/pc-game-fps-doctor</link>
+      <description>One button: why the game stutters, why it lags and why it won't start. Pitstop measures with PresentMon, explains in plain words, fixes Windows only, and undoes every change in one click.</description>
+      <guid>https://github.com/Centiplatrap/pc-game-fps-doctor</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>603</stars>
+      <forks>210</forks>
+      <addStars>191</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>0xCodez/DuoDesk</title>
+      <link>https://github.com/0xCodez/DuoDesk</link>
+      <description>All your computers and your phone, working as one desk. Aurora redesign of TwinDesk. GPL-3.0</description>
+      <guid>https://github.com/0xCodez/DuoDesk</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>361</stars>
+      <forks>55</forks>
+      <addStars>170</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>tt-a1i/archify</title>
+      <link>https://github.com/tt-a1i/archify</link>
+      <description>Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.</description>
+      <guid>https://github.com/tt-a1i/archify</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>92,756</stars>
+      <forks>6,738</forks>
+      <addStars>659</addStars>
+      <contributors/>
     </item>
   </channel>
 </rss>

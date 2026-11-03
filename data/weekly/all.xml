@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 03 Nov 2026 01:39:42 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 17:11:54 GMT</pubDate>
     <item>
       <title>Nutlope/hallmark</title>
       <link>https://github.com/Nutlope/hallmark</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Nutlope/hallmark</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>46,029</stars>
-      <forks>2,445</forks>
+      <stars>46,730</stars>
+      <forks>2,475</forks>
       <addStars>10,517</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>110,776</stars>
-      <forks>9,659</forks>
+      <stars>111,569</stars>
+      <forks>9,719</forks>
       <addStars>7,255</addStars>
       <contributors>
         <contributor>
@@ -81,14 +81,90 @@
       </contributors>
     </item>
     <item>
+      <title>pingdotgg/t3code</title>
+      <link>https://github.com/pingdotgg/t3code</link>
+      <description/>
+      <guid>https://github.com/pingdotgg/t3code</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>43,747</stars>
+      <forks>9,198</forks>
+      <addStars>9,770</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4</avatar>
+          <name>juliusmarminge</name>
+          <url>https://github.com/juliusmarminge</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6751787?s=40&amp;v=4</avatar>
+          <name>t3dotgg</name>
+          <url>https://github.com/t3dotgg</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/254055478?s=40&amp;v=4</avatar>
+          <name>maria-rcks</name>
+          <url>https://github.com/maria-rcks</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4</avatar>
+          <name>codex</name>
+          <url>https://github.com/codex</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>An agentic skills framework &amp; software development methodology that works.</description>
+      <guid>https://github.com/obra/superpowers</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>311,711</stars>
+      <forks>27,732</forks>
+      <addStars>5,956</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4</avatar>
+          <name>obra</name>
+          <url>https://github.com/obra</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4</avatar>
+          <name>arittr</name>
+          <url>https://github.com/arittr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4</avatar>
+          <name>clkao</name>
+          <url>https://github.com/clkao</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19286898?s=40&amp;v=4</avatar>
+          <name>arimu1</name>
+          <url>https://github.com/arimu1</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>pbakaus/impeccable</title>
       <link>https://github.com/pbakaus/impeccable</link>
       <description>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.</description>
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>100,510</stars>
-      <forks>5,936</forks>
+      <stars>101,271</stars>
+      <forks>5,990</forks>
       <addStars>11,754</addStars>
       <contributors>
         <contributor>
@@ -120,8 +196,8 @@
       <guid>https://github.com/AgriciDaniel/claude-seo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,010</stars>
-      <forks>3,399</forks>
+      <stars>26,230</stars>
+      <forks>3,422</forks>
       <addStars>4,091</addStars>
       <contributors>
         <contributor>
@@ -147,90 +223,14 @@
       </contributors>
     </item>
     <item>
-      <title>obra/superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <description>An agentic skills framework &amp; software development methodology that works.</description>
-      <guid>https://github.com/obra/superpowers</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>311,262</stars>
-      <forks>27,694</forks>
-      <addStars>5,956</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4</avatar>
-          <name>obra</name>
-          <url>https://github.com/obra</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5742859?s=40&amp;v=4</avatar>
-          <name>arittr</name>
-          <url>https://github.com/arittr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4</avatar>
-          <name>clkao</name>
-          <url>https://github.com/clkao</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19286898?s=40&amp;v=4</avatar>
-          <name>arimu1</name>
-          <url>https://github.com/arimu1</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>pingdotgg/t3code</title>
-      <link>https://github.com/pingdotgg/t3code</link>
-      <description/>
-      <guid>https://github.com/pingdotgg/t3code</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>42,017</stars>
-      <forks>9,105</forks>
-      <addStars>9,770</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4</avatar>
-          <name>juliusmarminge</name>
-          <url>https://github.com/juliusmarminge</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6751787?s=40&amp;v=4</avatar>
-          <name>t3dotgg</name>
-          <url>https://github.com/t3dotgg</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/254055478?s=40&amp;v=4</avatar>
-          <name>maria-rcks</name>
-          <url>https://github.com/maria-rcks</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4</avatar>
-          <name>codex</name>
-          <url>https://github.com/codex</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>JetBrains/thinkrail</title>
       <link>https://github.com/JetBrains/thinkrail</link>
       <description>Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need</description>
       <guid>https://github.com/JetBrains/thinkrail</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,190</stars>
-      <forks>418</forks>
+      <stars>7,366</stars>
+      <forks>440</forks>
       <addStars>4,812</addStars>
       <contributors>
         <contributor>
@@ -261,103 +261,14 @@
       </contributors>
     </item>
     <item>
-      <title>cloudflare/security-audit-skill</title>
-      <link>https://github.com/cloudflare/security-audit-skill</link>
-      <description>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
-      <guid>https://github.com/cloudflare/security-audit-skill</guid>
-      <language>JavaScript</language>
-      <languageColor>#f1e05a</languageColor>
-      <stars>57,426</stars>
-      <forks>3,733</forks>
-      <addStars>9,155</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4</avatar>
-          <name>literally-dan</name>
-          <url>https://github.com/literally-dan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4</avatar>
-          <name>CooperSheroy</name>
-          <url>https://github.com/CooperSheroy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/228360615?s=40&amp;v=4</avatar>
-          <name>kennysarnoski-jarvis</name>
-          <url>https://github.com/kennysarnoski-jarvis</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>jakubkrehel/skills</title>
-      <link>https://github.com/jakubkrehel/skills</link>
-      <description>A collection of agent skills that help you build great interfaces.</description>
-      <guid>https://github.com/jakubkrehel/skills</guid>
-      <language>Markdown</language>
-      <languageColor>#083fa1</languageColor>
-      <stars>10,375</stars>
-      <forks>401</forks>
-      <addStars>1,707</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/87530089?s=40&amp;v=4</avatar>
-          <name>jakubkrehel</name>
-          <url>https://github.com/jakubkrehel</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>multica-ai/andrej-karpathy-skills</title>
-      <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
-      <description>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.</description>
-      <guid>https://github.com/multica-ai/andrej-karpathy-skills</guid>
-      <language/>
-      <languageColor/>
-      <stars>228,556</stars>
-      <forks>22,787</forks>
-      <addStars>4,397</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4</avatar>
-          <name>forrestchang</name>
-          <url>https://github.com/forrestchang</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45536170?s=40&amp;v=4</avatar>
-          <name>back1ply</name>
-          <url>https://github.com/back1ply</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45513138?s=40&amp;v=4</avatar>
-          <name>herobrine19</name>
-          <url>https://github.com/herobrine19</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/478549?s=40&amp;v=4</avatar>
-          <name>szkocot</name>
-          <url>https://github.com/szkocot</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>anthropics/skills</title>
       <link>https://github.com/anthropics/skills</link>
       <description>Public repository for Agent Skills</description>
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>186,782</stars>
-      <forks>22,059</forks>
+      <stars>187,023</stars>
+      <forks>22,088</forks>
       <addStars>2,828</addStars>
       <contributors>
         <contributor>
@@ -388,25 +299,43 @@
       </contributors>
     </item>
     <item>
-      <title>Leonxlnx/taste-skill</title>
-      <link>https://github.com/Leonxlnx/taste-skill</link>
-      <description>Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages</description>
-      <guid>https://github.com/Leonxlnx/taste-skill</guid>
-      <language>JavaScript</language>
-      <languageColor>#f1e05a</languageColor>
-      <stars>108,760</stars>
-      <forks>7,321</forks>
-      <addStars>5,729</addStars>
+      <title>jakubkrehel/skills</title>
+      <link>https://github.com/jakubkrehel/skills</link>
+      <description>A collection of agent skills that help you build great interfaces.</description>
+      <guid>https://github.com/jakubkrehel/skills</guid>
+      <language>Markdown</language>
+      <languageColor>#083fa1</languageColor>
+      <stars>10,552</stars>
+      <forks>405</forks>
+      <addStars>1,707</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/219127460?s=40&amp;v=4</avatar>
-          <name>Leonxlnx</name>
-          <url>https://github.com/Leonxlnx</url>
+          <avatar>https://avatars.githubusercontent.com/u/87530089?s=40&amp;v=4</avatar>
+          <name>jakubkrehel</name>
+          <url>https://github.com/jakubkrehel</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
-          <name>cursoragent</name>
-          <url>https://github.com/cursoragent</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>multica-ai/andrej-karpathy-skills</title>
+      <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
+      <description>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.</description>
+      <guid>https://github.com/multica-ai/andrej-karpathy-skills</guid>
+      <language/>
+      <languageColor/>
+      <stars>228,956</stars>
+      <forks>22,827</forks>
+      <addStars>4,397</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4</avatar>
+          <name>forrestchang</name>
+          <url>https://github.com/forrestchang</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -414,14 +343,113 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/122161868?s=40&amp;v=4</avatar>
-          <name>HugoSpy</name>
-          <url>https://github.com/HugoSpy</url>
+          <avatar>https://avatars.githubusercontent.com/u/45536170?s=40&amp;v=4</avatar>
+          <name>back1ply</name>
+          <url>https://github.com/back1ply</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96955327?s=40&amp;v=4</avatar>
-          <name>flexi767</name>
-          <url>https://github.com/flexi767</url>
+          <avatar>https://avatars.githubusercontent.com/u/45513138?s=40&amp;v=4</avatar>
+          <name>herobrine19</name>
+          <url>https://github.com/herobrine19</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/478549?s=40&amp;v=4</avatar>
+          <name>szkocot</name>
+          <url>https://github.com/szkocot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ghostty-org/ghostty</title>
+      <link>https://github.com/ghostty-org/ghostty</link>
+      <description>👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</description>
+      <guid>https://github.com/ghostty-org/ghostty</guid>
+      <language>Zig</language>
+      <languageColor>#ec915c</languageColor>
+      <stars>63,404</stars>
+      <forks>3,822</forks>
+      <addStars>687</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1299?s=40&amp;v=4</avatar>
+          <name>mitchellh</name>
+          <url>https://github.com/mitchellh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/740022?s=40&amp;v=4</avatar>
+          <name>jcollie</name>
+          <url>https://github.com/jcollie</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7241851?s=40&amp;v=4</avatar>
+          <name>qwerasd205</name>
+          <url>https://github.com/qwerasd205</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>cloudflare/security-audit-skill</title>
+      <link>https://github.com/cloudflare/security-audit-skill</link>
+      <description>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
+      <guid>https://github.com/cloudflare/security-audit-skill</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>57,988</stars>
+      <forks>3,778</forks>
+      <addStars>9,155</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4</avatar>
+          <name>literally-dan</name>
+          <url>https://github.com/literally-dan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59650384?s=40&amp;v=4</avatar>
+          <name>CooperSheroy</name>
+          <url>https://github.com/CooperSheroy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/228360615?s=40&amp;v=4</avatar>
+          <name>kennysarnoski-jarvis</name>
+          <url>https://github.com/kennysarnoski-jarvis</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>hyprwm/Hyprland</title>
+      <link>https://github.com/hyprwm/Hyprland</link>
+      <description>Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</description>
+      <guid>https://github.com/hyprwm/Hyprland</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>40,191</stars>
+      <forks>2,164</forks>
+      <addStars>662</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43317083?s=40&amp;v=4</avatar>
+          <name>vaxerski</name>
+          <url>https://github.com/vaxerski</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/36706276?s=40&amp;v=4</avatar>
+          <name>fufexan</name>
+          <url>https://github.com/fufexan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/773455?s=40&amp;v=4</avatar>
+          <name>gulafaran</name>
+          <url>https://github.com/gulafaran</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/123664421?s=40&amp;v=4</avatar>
+          <name>MightyPlaza</name>
+          <url>https://github.com/MightyPlaza</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/41110182?s=40&amp;v=4</avatar>
+          <name>UjinT34</name>
+          <url>https://github.com/UjinT34</url>
         </contributor>
       </contributors>
     </item>
@@ -432,8 +460,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>119,981</stars>
-      <forks>22,945</forks>
+      <stars>120,239</stars>
+      <forks>23,000</forks>
       <addStars>4,603</addStars>
       <contributors>
         <contributor>
@@ -464,30 +492,30 @@
       </contributors>
     </item>
     <item>
-      <title>ghostty-org/ghostty</title>
-      <link>https://github.com/ghostty-org/ghostty</link>
-      <description>👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</description>
-      <guid>https://github.com/ghostty-org/ghostty</guid>
-      <language>Zig</language>
-      <languageColor>#ec915c</languageColor>
-      <stars>63,321</stars>
-      <forks>3,829</forks>
-      <addStars>687</addStars>
+      <title>max-sixty/worktrunk</title>
+      <link>https://github.com/max-sixty/worktrunk</link>
+      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+      <guid>https://github.com/max-sixty/worktrunk</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>10,355</stars>
+      <forks>373</forks>
+      <addStars>406</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1299?s=40&amp;v=4</avatar>
-          <name>mitchellh</name>
-          <url>https://github.com/mitchellh</url>
+          <avatar>https://avatars.githubusercontent.com/u/5635139?s=40&amp;v=4</avatar>
+          <name>max-sixty</name>
+          <url>https://github.com/max-sixty</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/740022?s=40&amp;v=4</avatar>
-          <name>jcollie</name>
-          <url>https://github.com/jcollie</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7241851?s=40&amp;v=4</avatar>
-          <name>qwerasd205</name>
-          <url>https://github.com/qwerasd205</url>
+          <avatar>https://avatars.githubusercontent.com/u/254187624?s=40&amp;v=4</avatar>
+          <name>worktrunk-bot</name>
+          <url>https://github.com/worktrunk-bot</url>
         </contributor>
       </contributors>
     </item>
@@ -498,8 +526,8 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>295,690</stars>
-      <forks>43,747</forks>
+      <stars>296,307</stars>
+      <forks>43,825</forks>
       <addStars>6,201</addStars>
       <contributors>
         <contributor>
@@ -525,42 +553,268 @@
       </contributors>
     </item>
     <item>
-      <title>heygen-com/hyperframes</title>
-      <link>https://github.com/heygen-com/hyperframes</link>
-      <description>Write HTML. Render video. Built for agents.</description>
-      <guid>https://github.com/heygen-com/hyperframes</guid>
+      <title>storytold/craft-anything</title>
+      <link>https://github.com/storytold/craft-anything</link>
+      <description>Craft Anything: understand how any software works, and craft your own.</description>
+      <guid>https://github.com/storytold/craft-anything</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>4,427</stars>
+      <forks>444</forks>
+      <addStars>3,855</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>deepseek-ai/dsh-superagent-prototype</title>
+      <link>https://github.com/deepseek-ai/dsh-superagent-prototype</link>
+      <description>Towards a More Autonomous Agent System</description>
+      <guid>https://github.com/deepseek-ai/dsh-superagent-prototype</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>77,755</stars>
-      <forks>7,145</forks>
-      <addStars>4,924</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4</avatar>
-          <name>miguel-heygen</name>
-          <url>https://github.com/miguel-heygen</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/337856?s=40&amp;v=4</avatar>
-          <name>vanceingalls</name>
-          <url>https://github.com/vanceingalls</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7664106?s=40&amp;v=4</avatar>
-          <name>jrusso1020</name>
-          <url>https://github.com/jrusso1020</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/165517112?s=40&amp;v=4</avatar>
-          <name>ukimsanov</name>
-          <url>https://github.com/ukimsanov</url>
-        </contributor>
-      </contributors>
+      <stars>13,371</stars>
+      <forks>1,221</forks>
+      <addStars>6,783</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>JiaFeiMiao-K-Cat/DiscImageStudio</title>
+      <link>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</link>
+      <description/>
+      <guid>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>3,350</stars>
+      <forks>36</forks>
+      <addStars>2,068</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>vercel-labs/agent-desktop</title>
+      <link>https://github.com/vercel-labs/agent-desktop</link>
+      <description>Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.</description>
+      <guid>https://github.com/vercel-labs/agent-desktop</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>9,929</stars>
+      <forks>538</forks>
+      <addStars>3,480</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>morluto/rea</title>
+      <link>https://github.com/morluto/rea</link>
+      <description>Reverse engineer anything with agents, from app behavior down to native binaries.</description>
+      <guid>https://github.com/morluto/rea</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>423,355</stars>
+      <forks>106,001</forks>
+      <addStars>4,849</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Verlintas/NOIR</title>
+      <link>https://github.com/Verlintas/NOIR</link>
+      <description>Desktop audit of what an Android device can leak: permissions, endpoints, risk, reversible fixes</description>
+      <guid>https://github.com/Verlintas/NOIR</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>1,395</stars>
+      <forks>75</forks>
+      <addStars>1,188</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>modelflare-ai/AnyModelBot</title>
+      <link>https://github.com/modelflare-ai/AnyModelBot</link>
+      <description>🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.</description>
+      <guid>https://github.com/modelflare-ai/AnyModelBot</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>1,407</stars>
+      <forks>14</forks>
+      <addStars>1,131</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>caru-ini/stack-diagram</title>
+      <link>https://github.com/caru-ini/stack-diagram</link>
+      <description>Agent skill: describe your stack in a sentence, get an architecture diagram with official logos</description>
+      <guid>https://github.com/caru-ini/stack-diagram</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>1,211</stars>
+      <forks>40</forks>
+      <addStars>908</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Thysrael/Horizon</title>
+      <link>https://github.com/Thysrael/Horizon</link>
+      <description>📡 Your own AI-powered news radar. Generates daily briefings in English &amp; Chinese. | 用 AI 构建你专属的新闻雷达</description>
+      <guid>https://github.com/Thysrael/Horizon</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>12,003</stars>
+      <forks>1,849</forks>
+      <addStars>883</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>thtbee/nectarlink</title>
+      <link>https://github.com/thtbee/nectarlink</link>
+      <description>Your Android phone and your Windows PC, working as one. Local-first, end-to-end encrypted, no account.</description>
+      <guid>https://github.com/thtbee/nectarlink</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>1,762</stars>
+      <forks>115</forks>
+      <addStars>1,111</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>wangzan101/Mika</title>
+      <link>https://github.com/wangzan101/Mika</link>
+      <description>Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.</description>
+      <guid>https://github.com/wangzan101/Mika</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>5,439</stars>
+      <forks>962</forks>
+      <addStars>1,705</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>l0ng-ai/openidea</title>
+      <link>https://github.com/l0ng-ai/openidea</link>
+      <description>The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.</description>
+      <guid>https://github.com/l0ng-ai/openidea</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>5,033</stars>
+      <forks>371</forks>
+      <addStars>1,696</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>D4Vinci/Scrapling</title>
+      <link>https://github.com/D4Vinci/Scrapling</link>
+      <description>🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev</description>
+      <guid>https://github.com/D4Vinci/Scrapling</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>93,061</stars>
+      <forks>10,185</forks>
+      <addStars>1,386</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>google/elephant-goldfish-model</title>
+      <link>https://github.com/google/elephant-goldfish-model</link>
+      <description>Open-source skills for designing and reviewing software with AI agents</description>
+      <guid>https://github.com/google/elephant-goldfish-model</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>10,687</stars>
+      <forks>678</forks>
+      <addStars>1,777</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>heydamir/unslop</title>
+      <link>https://github.com/heydamir/unslop</link>
+      <description>A Claude skill that turns vibecoded, AI-looking UI into a designed interface</description>
+      <guid>https://github.com/heydamir/unslop</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>6,313</stars>
+      <forks>295</forks>
+      <addStars>1,601</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Ebony-Vinyl/dsh-our-free-model</title>
+      <link>https://github.com/Ebony-Vinyl/dsh-our-free-model</link>
+      <description>在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.</description>
+      <guid>https://github.com/Ebony-Vinyl/dsh-our-free-model</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>57,432</stars>
+      <forks>1,630</forks>
+      <addStars>1,878</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>mromidev/claude-animated-shorts</title>
+      <link>https://github.com/mromidev/claude-animated-shorts</link>
+      <description>Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion</description>
+      <guid>https://github.com/mromidev/claude-animated-shorts</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>652</stars>
+      <forks>120</forks>
+      <addStars>522</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>ivankovic/omnidiff</title>
+      <link>https://github.com/ivankovic/omnidiff</link>
+      <description>Fast, robust, accurate diffing </description>
+      <guid>https://github.com/ivankovic/omnidiff</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>872</stars>
+      <forks>12</forks>
+      <addStars>589</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Donchitos/Claude-Code-Game-Studios</title>
+      <link>https://github.com/Donchitos/Claude-Code-Game-Studios</link>
+      <description>Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.</description>
+      <guid>https://github.com/Donchitos/Claude-Code-Game-Studios</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>33,676</stars>
+      <forks>4,802</forks>
+      <addStars>1,500</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>ccch1mneyyy/dsh-Go</title>
+      <link>https://github.com/ccch1mneyyy/dsh-Go</link>
+      <description>dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。</description>
+      <guid>https://github.com/ccch1mneyyy/dsh-Go</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>5,935</stars>
+      <forks>277</forks>
+      <addStars>1,480</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>deepseek-ai/deepseek-harness</title>
+      <link>https://github.com/deepseek-ai/deepseek-harness</link>
+      <description>DeepSeek Harness: Everything is a Plugin.</description>
+      <guid>https://github.com/deepseek-ai/deepseek-harness</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>269,819</stars>
+      <forks>34,893</forks>
+      <addStars>1,551</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>FlashML-org/FreeToken</title>
+      <link>https://github.com/FlashML-org/FreeToken</link>
+      <description>FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.</description>
+      <guid>https://github.com/FlashML-org/FreeToken</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>16,149</stars>
+      <forks>1,623</forks>
+      <addStars>797</addStars>
+      <contributors/>
     </item>
   </channel>
 </rss>

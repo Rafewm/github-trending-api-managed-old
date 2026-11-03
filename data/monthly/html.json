@@ -2,43 +2,16 @@
   "title": "GitHub Html Languages Monthly Trending",
   "description": "Monthly Trending of Html Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Nov 2026 01:39:42 GMT",
+  "pubDate": "Tue, 03 Nov 2026 17:11:54 GMT",
   "items": [
-    {
-      "title": "Jakubantalik/transitions.dev",
-      "url": "https://github.com/Jakubantalik/transitions.dev",
-      "description": "UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": "6,038",
-      "forks": "284",
-      "addStars": "1,550",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14873517?s=40&v=4",
-          "name": "Jakubantalik",
-          "url": "https://github.com/Jakubantalik"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        }
-      ]
-    },
     {
       "title": "home-assistant/home-assistant.io",
       "url": "https://github.com/home-assistant/home-assistant.io",
       "description": "📘 Home Assistant User documentation",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "10,094",
-      "forks": "8,713",
+      "stars": "10,097",
+      "forks": "8,716",
       "addStars": "217",
       "contributors": [
         {
@@ -64,13 +37,40 @@
       ]
     },
     {
+      "title": "Jakubantalik/transitions.dev",
+      "url": "https://github.com/Jakubantalik/transitions.dev",
+      "description": "UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "6,055",
+      "forks": "286",
+      "addStars": "1,550",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14873517?s=40&v=4",
+          "name": "Jakubantalik",
+          "url": "https://github.com/Jakubantalik"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        }
+      ]
+    },
+    {
       "title": "uiverse-io/galaxy",
       "url": "https://github.com/uiverse-io/galaxy",
       "description": "The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "14,731",
-      "forks": "1,027",
+      "stars": "14,776",
+      "forks": "1,030",
       "addStars": "1,432",
       "contributors": [
         {
@@ -101,13 +101,45 @@
       ]
     },
     {
+      "title": "Azgaar/Fantasy-Map-Generator",
+      "url": "https://github.com/Azgaar/Fantasy-Map-Generator",
+      "description": "Web application generating interactive and highly customizable maps",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "6,172",
+      "forks": "1,065",
+      "addStars": "138",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26469650?s=40&v=4",
+          "name": "Azgaar",
+          "url": "https://github.com/Azgaar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/201146829?s=40&v=4",
+          "name": "barrulus",
+          "url": "https://github.com/barrulus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39553418?s=40&v=4",
+          "name": "StempunkDev",
+          "url": "https://github.com/StempunkDev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "CoolDude2349/Offline-HTML-Games-Pack",
       "url": "https://github.com/CoolDude2349/Offline-HTML-Games-Pack",
       "description": "352 offline HTML games, each on a single file",
       "language": "HTML",
       "languageColor": "#e34c26",
       "stars": "246",
-      "forks": "243",
+      "forks": "245",
       "addStars": "65",
       "contributors": [
         {
@@ -133,7 +165,7 @@
       "description": "The team second brain. Plain Markdown files on your disk, edited together in real time, and read and written by your AI like a teammate.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "272",
+      "stars": "273",
       "forks": "56",
       "addStars": "124",
       "contributors": [
@@ -165,45 +197,13 @@
       ]
     },
     {
-      "title": "Azgaar/Fantasy-Map-Generator",
-      "url": "https://github.com/Azgaar/Fantasy-Map-Generator",
-      "description": "Web application generating interactive and highly customizable maps",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": "6,171",
-      "forks": "1,065",
-      "addStars": "138",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26469650?s=40&v=4",
-          "name": "Azgaar",
-          "url": "https://github.com/Azgaar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/201146829?s=40&v=4",
-          "name": "barrulus",
-          "url": "https://github.com/barrulus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39553418?s=40&v=4",
-          "name": "StempunkDev",
-          "url": "https://github.com/StempunkDev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
       "title": "OWASP/Top10",
       "url": "https://github.com/OWASP/Top10",
       "description": "Official OWASP Top 10 Document Repository",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "6,438",
-      "forks": "1,176",
+      "stars": "6,441",
+      "forks": "1,177",
       "addStars": "254",
       "contributors": [
         {
@@ -239,7 +239,7 @@
       "description": "List of Game Decompilations i could gather from around the internet.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "796",
+      "stars": "800",
       "forks": "51",
       "addStars": "578",
       "contributors": [
@@ -266,50 +266,13 @@
       ]
     },
     {
-      "title": "rfordatascience/tidytuesday",
-      "url": "https://github.com/rfordatascience/tidytuesday",
-      "description": "Official repo for the #tidytuesday project",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": "8,485",
-      "forks": "2,587",
-      "addStars": "87",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29187501?s=40&v=4",
-          "name": "jthomasmock",
-          "url": "https://github.com/jthomasmock"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33983824?s=40&v=4",
-          "name": "jonthegeek",
-          "url": "https://github.com/jonthegeek"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/889238?s=40&v=4",
-          "name": "tracykteal",
-          "url": "https://github.com/tracykteal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22481467?s=40&v=4",
-          "name": "thebioengineer",
-          "url": "https://github.com/thebioengineer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42338476?s=40&v=4",
-          "name": "nrennie",
-          "url": "https://github.com/nrennie"
-        }
-      ]
-    },
-    {
       "title": "OWASP/www-project-agentic-skills-top-10",
       "url": "https://github.com/OWASP/www-project-agentic-skills-top-10",
       "description": "OWASP Foundation web repository",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "383",
-      "forks": "98",
+      "stars": "388",
+      "forks": "100",
       "addStars": "113",
       "contributors": [
         {
@@ -336,6 +299,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/1359628?s=40&v=4",
           "name": "erikik8090",
           "url": "https://github.com/erikik8090"
+        }
+      ]
+    },
+    {
+      "title": "rfordatascience/tidytuesday",
+      "url": "https://github.com/rfordatascience/tidytuesday",
+      "description": "Official repo for the #tidytuesday project",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "8,487",
+      "forks": "2,590",
+      "addStars": "87",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29187501?s=40&v=4",
+          "name": "jthomasmock",
+          "url": "https://github.com/jthomasmock"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33983824?s=40&v=4",
+          "name": "jonthegeek",
+          "url": "https://github.com/jonthegeek"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/889238?s=40&v=4",
+          "name": "tracykteal",
+          "url": "https://github.com/tracykteal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22481467?s=40&v=4",
+          "name": "thebioengineer",
+          "url": "https://github.com/thebioengineer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42338476?s=40&v=4",
+          "name": "nrennie",
+          "url": "https://github.com/nrennie"
         }
       ]
     }

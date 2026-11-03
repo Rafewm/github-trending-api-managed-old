@@ -3,17 +3,17 @@
     <title>GitHub C# Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of C# Languages in GitHub</description>
-    <pubDate>Tue, 03 Nov 2026 01:39:42 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 17:11:54 GMT</pubDate>
     <item>
       <title>JustVugg/colibri</title>
       <link>https://github.com/JustVugg/colibri</link>
-      <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</description>
+      <description>A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.</description>
       <guid>https://github.com/JustVugg/colibri</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>46,578</stars>
-      <forks>5,383</forks>
-      <addStars>675</addStars>
+      <stars>47,085</stars>
+      <forks>5,440</forks>
+      <addStars>803</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/13022503?s=40&amp;v=4</avatar>
@@ -43,339 +43,40 @@
       </contributors>
     </item>
     <item>
-      <title>valinet/ExplorerPatcher</title>
-      <link>https://github.com/valinet/ExplorerPatcher</link>
-      <description>This project aims to enhance the working environment on Windows</description>
-      <guid>https://github.com/valinet/ExplorerPatcher</guid>
+      <title>meshcore-dev/MeshCore</title>
+      <link>https://github.com/meshcore-dev/MeshCore</link>
+      <description>A new lightweight, hybrid routing mesh protocol for packet radios</description>
+      <guid>https://github.com/meshcore-dev/MeshCore</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>34,213</stars>
-      <forks>1,388</forks>
-      <addStars>17</addStars>
+      <stars>3,979</stars>
+      <forks>1,540</forks>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6503598?s=40&amp;v=4</avatar>
-          <name>valinet</name>
-          <url>https://github.com/valinet</url>
+          <avatar>https://avatars.githubusercontent.com/u/172365781?s=40&amp;v=4</avatar>
+          <name>ripplebiz</name>
+          <url>https://github.com/ripplebiz</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20662640?s=40&amp;v=4</avatar>
-          <name>Amrsatrio</name>
-          <url>https://github.com/Amrsatrio</url>
+          <avatar>https://avatars.githubusercontent.com/u/3173581?s=40&amp;v=4</avatar>
+          <name>liamcottle</name>
+          <url>https://github.com/liamcottle</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/68134602?s=40&amp;v=4</avatar>
-          <name>Kichura</name>
-          <url>https://github.com/Kichura</url>
+          <avatar>https://avatars.githubusercontent.com/u/4464292?s=40&amp;v=4</avatar>
+          <name>fdlamotte</name>
+          <url>https://github.com/fdlamotte</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/149018134?s=40&amp;v=4</avatar>
-          <name>AllieTheFox</name>
-          <url>https://github.com/AllieTheFox</url>
+          <avatar>https://avatars.githubusercontent.com/u/37787853?s=40&amp;v=4</avatar>
+          <name>oltaco</name>
+          <url>https://github.com/oltaco</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1945821?s=40&amp;v=4</avatar>
-          <name>davids5</name>
-          <url>https://github.com/davids5</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>nothings/stb</title>
-      <link>https://github.com/nothings/stb</link>
-      <description>stb single-file public domain libraries for C/C++</description>
-      <guid>https://github.com/nothings/stb</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>34,930</stars>
-      <forks>8,113</forks>
-      <addStars>8</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7525026?s=40&amp;v=4</avatar>
-          <name>nothings</name>
-          <url>https://github.com/nothings</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1077496?s=40&amp;v=4</avatar>
-          <name>rygorous</name>
-          <url>https://github.com/rygorous</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/815310?s=40&amp;v=4</avatar>
-          <name>BSVino</name>
-          <url>https://github.com/BSVino</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8225057?s=40&amp;v=4</avatar>
-          <name>ocornut</name>
-          <url>https://github.com/ocornut</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7214365?s=40&amp;v=4</avatar>
-          <name>rwhitworth</name>
-          <url>https://github.com/rwhitworth</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Genymobile/scrcpy</title>
-      <link>https://github.com/Genymobile/scrcpy</link>
-      <description>Display and control your Android device</description>
-      <guid>https://github.com/Genymobile/scrcpy</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>153,863</stars>
-      <forks>14,127</forks>
-      <addStars>102</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/543275?s=40&amp;v=4</avatar>
-          <name>rom1v</name>
-          <url>https://github.com/rom1v</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1330321?s=40&amp;v=4</avatar>
-          <name>yume-chan</name>
-          <url>https://github.com/yume-chan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5494432?s=40&amp;v=4</avatar>
-          <name>npes87184</name>
-          <url>https://github.com/npes87184</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/639467?s=40&amp;v=4</avatar>
-          <name>brunoais</name>
-          <url>https://github.com/brunoais</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2694559?s=40&amp;v=4</avatar>
-          <name>rootkea</name>
-          <url>https://github.com/rootkea</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>armel/uv-k1-k5v3-firmware-custom</title>
-      <link>https://github.com/armel/uv-k1-k5v3-firmware-custom</link>
-      <description>This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel</description>
-      <guid>https://github.com/armel/uv-k1-k5v3-firmware-custom</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>824</stars>
-      <forks>226</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/127889?s=40&amp;v=4</avatar>
-          <name>armel</name>
-          <url>https://github.com/armel</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/110433144?s=40&amp;v=4</avatar>
-          <name>mrkusypl</name>
-          <url>https://github.com/mrkusypl</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/246715?s=40&amp;v=4</avatar>
-          <name>jdenoy</name>
-          <url>https://github.com/jdenoy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/175225470?s=40&amp;v=4</avatar>
-          <name>muzkr</name>
-          <url>https://github.com/muzkr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/885662?s=40&amp;v=4</avatar>
-          <name>mengzhuo</name>
-          <url>https://github.com/mengzhuo</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>immortalwrt/immortalwrt</title>
-      <link>https://github.com/immortalwrt/immortalwrt</link>
-      <description>An opensource OpenWrt variant for mainland China users.</description>
-      <guid>https://github.com/immortalwrt/immortalwrt</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>11,843</stars>
-      <forks>4,063</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19352056?s=40&amp;v=4</avatar>
-          <name>juhosg</name>
-          <url>https://github.com/juhosg</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22235437?s=40&amp;v=4</avatar>
-          <name>1715173329</name>
-          <url>https://github.com/1715173329</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1110044?s=40&amp;v=4</avatar>
-          <name>ffainelli</name>
-          <url>https://github.com/ffainelli</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2529314?s=40&amp;v=4</avatar>
-          <name>nbd168</name>
-          <url>https://github.com/nbd168</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/78494?s=40&amp;v=4</avatar>
-          <name>hauke</name>
-          <url>https://github.com/hauke</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>mackron/miniaudio</title>
-      <link>https://github.com/mackron/miniaudio</link>
-      <description>Audio playback and capture library written in C, in a single source file.</description>
-      <guid>https://github.com/mackron/miniaudio</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>7,477</stars>
-      <forks>625</forks>
-      <addStars>11</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1232553?s=40&amp;v=4</avatar>
-          <name>mackron</name>
-          <url>https://github.com/mackron</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29616?s=40&amp;v=4</avatar>
-          <name>tycho</name>
-          <url>https://github.com/tycho</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/958469?s=40&amp;v=4</avatar>
-          <name>znakeeye</name>
-          <url>https://github.com/znakeeye</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7667009?s=40&amp;v=4</avatar>
-          <name>Clownacy</name>
-          <url>https://github.com/Clownacy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1697224?s=40&amp;v=4</avatar>
-          <name>iarwain</name>
-          <url>https://github.com/iarwain</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>HarbourMasters/Shipwright</title>
-      <link>https://github.com/HarbourMasters/Shipwright</link>
-      <description/>
-      <guid>https://github.com/HarbourMasters/Shipwright</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>5,828</stars>
-      <forks>968</forks>
-      <addStars>9</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/159546?s=40&amp;v=4</avatar>
-          <name>serprex</name>
-          <url>https://github.com/serprex</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/70942617?s=40&amp;v=4</avatar>
-          <name>briaguya0</name>
-          <url>https://github.com/briaguya0</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/774771?s=40&amp;v=4</avatar>
-          <name>Malkierian</name>
-          <url>https://github.com/Malkierian</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13861068?s=40&amp;v=4</avatar>
-          <name>Archez</name>
-          <url>https://github.com/Archez</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7316699?s=40&amp;v=4</avatar>
-          <name>garrettjoecox</name>
-          <url>https://github.com/garrettjoecox</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>stackia/rtp2httpd</title>
-      <link>https://github.com/stackia/rtp2httpd</link>
-      <description>Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!</description>
-      <guid>https://github.com/stackia/rtp2httpd</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>2,308</stars>
-      <forks>374</forks>
-      <addStars>5</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5107241?s=40&amp;v=4</avatar>
-          <name>stackia</name>
-          <url>https://github.com/stackia</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
-          <name>cursoragent</name>
-          <url>https://github.com/cursoragent</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31075951?s=40&amp;v=4</avatar>
-          <name>laozhoubuluo</name>
-          <url>https://github.com/laozhoubuluo</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>systemd/systemd</title>
-      <link>https://github.com/systemd/systemd</link>
-      <description>The systemd System and Service Manager</description>
-      <guid>https://github.com/systemd/systemd</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>16,987</stars>
-      <forks>4,803</forks>
-      <addStars>7</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2130732?s=40&amp;v=4</avatar>
-          <name>poettering</name>
-          <url>https://github.com/poettering</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14157143?s=40&amp;v=4</avatar>
-          <name>yuwata</name>
-          <url>https://github.com/yuwata</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/349618?s=40&amp;v=4</avatar>
-          <name>keszybz</name>
-          <url>https://github.com/keszybz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/782193?s=40&amp;v=4</avatar>
-          <name>bluca</name>
-          <url>https://github.com/bluca</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9395011?s=40&amp;v=4</avatar>
-          <name>daandemeyer</name>
-          <url>https://github.com/daandemeyer</url>
+          <avatar>https://avatars.githubusercontent.com/u/1572066?s=40&amp;v=4</avatar>
+          <name>recrof</name>
+          <url>https://github.com/recrof</url>
         </contributor>
       </contributors>
     </item>
@@ -386,9 +87,9 @@
       <guid>https://github.com/opa334/Dopamine</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>7,178</stars>
+      <stars>7,190</stars>
       <forks>6,511</forks>
-      <addStars>20</addStars>
+      <addStars>19</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/18235760?s=40&amp;v=4</avatar>
@@ -418,42 +119,532 @@
       </contributors>
     </item>
     <item>
-      <title>sp00nznet/ps3recomp</title>
-      <link>https://github.com/sp00nznet/ps3recomp</link>
-      <description>Static recompilation runtime libraries for PlayStation 3 titles.</description>
-      <guid>https://github.com/sp00nznet/ps3recomp</guid>
+      <title>rizinorg/rizin</title>
+      <link>https://github.com/rizinorg/rizin</link>
+      <description>UNIX-like reverse engineering framework and command-line toolset.</description>
+      <guid>https://github.com/rizinorg/rizin</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>619</stars>
-      <forks>92</forks>
+      <stars>4,116</stars>
+      <forks>689</forks>
+      <addStars>13</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/203261?s=40&amp;v=4</avatar>
+          <name>XVilka</name>
+          <url>https://github.com/XVilka</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/562321?s=40&amp;v=4</avatar>
+          <name>ret2libc</name>
+          <url>https://github.com/ret2libc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1460997?s=40&amp;v=4</avatar>
+          <name>thestr4ng3r</name>
+          <url>https://github.com/thestr4ng3r</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/561184?s=40&amp;v=4</avatar>
+          <name>wargio</name>
+          <url>https://github.com/wargio</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12002672?s=40&amp;v=4</avatar>
+          <name>kazarmy</name>
+          <url>https://github.com/kazarmy</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>coolsnowwolf/lede</title>
+      <link>https://github.com/coolsnowwolf/lede</link>
+      <description>Lean's LEDE source</description>
+      <guid>https://github.com/coolsnowwolf/lede</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>31,610</stars>
+      <forks>19,053</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31687149?s=40&amp;v=4</avatar>
+          <name>coolsnowwolf</name>
+          <url>https://github.com/coolsnowwolf</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/42570690?s=40&amp;v=4</avatar>
+          <name>aiamadeus</name>
+          <url>https://github.com/aiamadeus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9948313?s=40&amp;v=4</avatar>
+          <name>dangowrt</name>
+          <url>https://github.com/dangowrt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/70857188?s=40&amp;v=4</avatar>
+          <name>Beginner-Go</name>
+          <url>https://github.com/Beginner-Go</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2529314?s=40&amp;v=4</avatar>
+          <name>nbd168</name>
+          <url>https://github.com/nbd168</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>xmrig/xmrig</title>
+      <link>https://github.com/xmrig/xmrig</link>
+      <description>RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark</description>
+      <guid>https://github.com/xmrig/xmrig</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>10,200</stars>
+      <forks>3,843</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/27528955?s=40&amp;v=4</avatar>
+          <name>xmrig</name>
+          <url>https://github.com/xmrig</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4937302?s=40&amp;v=4</avatar>
-          <name>sp00nznet</name>
-          <url>https://github.com/sp00nznet</url>
+          <avatar>https://avatars.githubusercontent.com/u/15806605?s=40&amp;v=4</avatar>
+          <name>SChernykh</name>
+          <url>https://github.com/SChernykh</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/146774802?s=40&amp;v=4</avatar>
-          <name>sagemono</name>
-          <url>https://github.com/sagemono</url>
+          <avatar>https://avatars.githubusercontent.com/u/2391234?s=40&amp;v=4</avatar>
+          <name>Spudz76</name>
+          <url>https://github.com/Spudz76</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46506773?s=40&amp;v=4</avatar>
-          <name>canersaka</name>
-          <url>https://github.com/canersaka</url>
+          <avatar>https://avatars.githubusercontent.com/u/8947059?s=40&amp;v=4</avatar>
+          <name>Foudge</name>
+          <url>https://github.com/Foudge</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3731082?s=40&amp;v=4</avatar>
-          <name>tekulvw</name>
-          <url>https://github.com/tekulvw</url>
+          <avatar>https://avatars.githubusercontent.com/u/29379327?s=40&amp;v=4</avatar>
+          <name>benthetechguy</name>
+          <url>https://github.com/benthetechguy</url>
         </contributor>
       </contributors>
+    </item>
+    <item>
+      <title>FreeRDP/FreeRDP</title>
+      <link>https://github.com/FreeRDP/FreeRDP</link>
+      <description>FreeRDP is a free remote desktop protocol library and clients</description>
+      <guid>https://github.com/FreeRDP/FreeRDP</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>13,949</stars>
+      <forks>15,575</forks>
+      <addStars>17</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3472254?s=40&amp;v=4</avatar>
+          <name>akallabeth</name>
+          <url>https://github.com/akallabeth</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/295841?s=40&amp;v=4</avatar>
+          <name>awakecoding</name>
+          <url>https://github.com/awakecoding</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3237998?s=40&amp;v=4</avatar>
+          <name>hardening</name>
+          <url>https://github.com/hardening</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/195793?s=40&amp;v=4</avatar>
+          <name>bmiklautz</name>
+          <url>https://github.com/bmiklautz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/669070?s=40&amp;v=4</avatar>
+          <name>mfleisz</name>
+          <url>https://github.com/mfleisz</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>git/git</title>
+      <link>https://github.com/git/git</link>
+      <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
+      <guid>https://github.com/git/git</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>64,140</stars>
+      <forks>28,768</forks>
+      <addStars>28</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54884?s=40&amp;v=4</avatar>
+          <name>gitster</name>
+          <url>https://github.com/gitster</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45925?s=40&amp;v=4</avatar>
+          <name>peff</name>
+          <url>https://github.com/peff</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/127790?s=40&amp;v=4</avatar>
+          <name>dscho</name>
+          <url>https://github.com/dscho</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4056630?s=40&amp;v=4</avatar>
+          <name>pks-t</name>
+          <url>https://github.com/pks-t</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45301?s=40&amp;v=4</avatar>
+          <name>avar</name>
+          <url>https://github.com/avar</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>valinet/ExplorerPatcher</title>
+      <link>https://github.com/valinet/ExplorerPatcher</link>
+      <description>This project aims to enhance the working environment on Windows</description>
+      <guid>https://github.com/valinet/ExplorerPatcher</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>34,219</stars>
+      <forks>1,387</forks>
+      <addStars>10</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6503598?s=40&amp;v=4</avatar>
+          <name>valinet</name>
+          <url>https://github.com/valinet</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20662640?s=40&amp;v=4</avatar>
+          <name>Amrsatrio</name>
+          <url>https://github.com/Amrsatrio</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/68134602?s=40&amp;v=4</avatar>
+          <name>Kichura</name>
+          <url>https://github.com/Kichura</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/149018134?s=40&amp;v=4</avatar>
+          <name>AllieTheFox</name>
+          <url>https://github.com/AllieTheFox</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1945821?s=40&amp;v=4</avatar>
+          <name>davids5</name>
+          <url>https://github.com/davids5</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>JiaFeiMiao-K-Cat/DiscImageStudio</title>
+      <link>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</link>
+      <description/>
+      <guid>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>3,350</stars>
+      <forks>36</forks>
+      <addStars>342</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>ABING1111/BiliDesk</title>
+      <link>https://github.com/ABING1111/BiliDesk</link>
+      <description>哔哩哔哩第三方桌面客户端 · Windows / WPF / .NET 10 </description>
+      <guid>https://github.com/ABING1111/BiliDesk</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>275</stars>
+      <forks>10</forks>
+      <addStars>28</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>KnifeLemon/Filee</title>
+      <link>https://github.com/KnifeLemon/Filee</link>
+      <description>Free, open-source file converter. Convert 263 formats offline by drag &amp; drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.</description>
+      <guid>https://github.com/KnifeLemon/Filee</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>20,742</stars>
+      <forks>1,263</forks>
+      <addStars>96</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>huanyuejue/Fluent-Steam-Lua</title>
+      <link>https://github.com/huanyuejue/Fluent-Steam-Lua</link>
+      <description>基于 WPF + Fluent Design 开发的现代化轻量级 Steam Lua 入库管理工具，目前仅适配OpenSteamTool</description>
+      <guid>https://github.com/huanyuejue/Fluent-Steam-Lua</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>753</stars>
+      <forks>64</forks>
+      <addStars>16</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>wanvfx/ProxyNodeHub</title>
+      <link>https://github.com/wanvfx/ProxyNodeHub</link>
+      <description>ProxyNodeHub 用于发现 GitHub 上活跃的免费节点仓库：分析活跃度、去重分散的节点、直接给出可用的订阅链接。点一次「搜索并分析」，剩下的梳理工作全部由它完成。</description>
+      <guid>https://github.com/wanvfx/ProxyNodeHub</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>578</stars>
+      <forks>94</forks>
+      <addStars>9</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>sdcb/SimdCodecs</title>
+      <link>https://github.com/sdcb/SimdCodecs</link>
+      <description>Pure-managed, SIMD-accelerated image codecs for .NET: JPEG, PNG, WebP, TIFF, GIF, JPEG 2000 and JBIG2, plus EXIF and ICC. No native dependencies, NativeAOT-compatible; the JPEG decoder beats libjpeg-turbo on our benchmark corpus.</description>
+      <guid>https://github.com/sdcb/SimdCodecs</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>77</stars>
+      <forks>8</forks>
+      <addStars>5</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Ciuntuc-BIM-Studio/lapin</title>
+      <link>https://github.com/Ciuntuc-BIM-Studio/lapin</link>
+      <description>Lapin — an open-source classic BIM modeller built natively on IFC (MIT). Helpware: if it helps you, please help someone who needs it, in any way you can.</description>
+      <guid>https://github.com/Ciuntuc-BIM-Studio/lapin</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>60</stars>
+      <forks>19</forks>
+      <addStars>4</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Ozark-Connect/NetworkOptimizer</title>
+      <link>https://github.com/Ozark-Connect/NetworkOptimizer</link>
+      <description>Self-hosted optimization, monitoring (NMS), and security audit tool for UniFi Networks. Includes Wi-Fi Optimizer for wireless health scoring and channel optimization, advanced DNS/VLAN/firewall security checks, config optimization suggestions, centralized WAN and LAN speed test server w/ L2 tracing, CM, ONT, SFP, 5G modem stats +more.​​​​​​​​​​​​​</description>
+      <guid>https://github.com/Ozark-Connect/NetworkOptimizer</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>1,228</stars>
+      <forks>43</forks>
+      <addStars>5</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>dotnet/eShop</title>
+      <link>https://github.com/dotnet/eShop</link>
+      <description>A reference .NET application implementing an eCommerce site</description>
+      <guid>https://github.com/dotnet/eShop</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>10,989</stars>
+      <forks>3,753</forks>
+      <addStars>3</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>umlx5h/LLPlayer</title>
+      <link>https://github.com/umlx5h/LLPlayer</link>
+      <description>The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!</description>
+      <guid>https://github.com/umlx5h/LLPlayer</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>4,479</stars>
+      <forks>287</forks>
+      <addStars>7</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>2dust/v2rayN</title>
+      <link>https://github.com/2dust/v2rayN</link>
+      <description>A GUI client for Windows, Linux and macOS, support Xray and sing-box and others</description>
+      <guid>https://github.com/2dust/v2rayN</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>119,808</stars>
+      <forks>16,636</forks>
+      <addStars>11</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>pylorak/TinyWall</title>
+      <link>https://github.com/pylorak/TinyWall</link>
+      <description>TinyWall is a free, non-intrusive, secure-by-default firewall for Windows.</description>
+      <guid>https://github.com/pylorak/TinyWall</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>841</stars>
+      <forks>133</forks>
+      <addStars>3</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Tianyu199509/DeskBox</title>
+      <link>https://github.com/Tianyu199509/DeskBox</link>
+      <description>A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.</description>
+      <guid>https://github.com/Tianyu199509/DeskBox</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>8,084</stars>
+      <forks>461</forks>
+      <addStars>8</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>CoplayDev/unity-mcp</title>
+      <link>https://github.com/CoplayDev/unity-mcp</link>
+      <description>Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.</description>
+      <guid>https://github.com/CoplayDev/unity-mcp</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>15,654</stars>
+      <forks>1,841</forks>
+      <addStars>7</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>tgeorgiadis/quiver-launcher</title>
+      <link>https://github.com/tgeorgiadis/quiver-launcher</link>
+      <description>A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.</description>
+      <guid>https://github.com/tgeorgiadis/quiver-launcher</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>3,755</stars>
+      <forks>116</forks>
+      <addStars>8</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>ntdevlabs/tiny11builder</title>
+      <link>https://github.com/ntdevlabs/tiny11builder</link>
+      <description>WinUI app for building smaller, customized Windows 11 images.</description>
+      <guid>https://github.com/ntdevlabs/tiny11builder</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>21,541</stars>
+      <forks>1,667</forks>
+      <addStars>7</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>dnSpyEx/dnSpy</title>
+      <link>https://github.com/dnSpyEx/dnSpy</link>
+      <description>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</description>
+      <guid>https://github.com/dnSpyEx/dnSpy</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>11,403</stars>
+      <forks>773</forks>
+      <addStars>5</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>PinchToDebug/EverythingQuickSearch</title>
+      <link>https://github.com/PinchToDebug/EverythingQuickSearch</link>
+      <description/>
+      <guid>https://github.com/PinchToDebug/EverythingQuickSearch</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>320</stars>
+      <forks>8</forks>
+      <addStars>2</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>moeacgx/Telegram-Panel</title>
+      <link>https://github.com/moeacgx/Telegram-Panel</link>
+      <description>Telegram多账号多功能管理面板</description>
+      <guid>https://github.com/moeacgx/Telegram-Panel</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>361</stars>
+      <forks>68</forks>
+      <addStars>2</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>edwardgushchin/SDL3-CS</title>
+      <link>https://github.com/edwardgushchin/SDL3-CS</link>
+      <description>Modern C# bindings and native NuGet packages for SDL3 and its companion libraries.</description>
+      <guid>https://github.com/edwardgushchin/SDL3-CS</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>296</stars>
+      <forks>34</forks>
+      <addStars>2</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>hadashiA/VContainer</title>
+      <link>https://github.com/hadashiA/VContainer</link>
+      <description>The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.</description>
+      <guid>https://github.com/hadashiA/VContainer</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>3,081</stars>
+      <forks>276</forks>
+      <addStars>2</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>LocalExile/LocalExile</title>
+      <link>https://github.com/LocalExile/LocalExile</link>
+      <description>LocalExile Open Source MMO Framework.</description>
+      <guid>https://github.com/LocalExile/LocalExile</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>184</stars>
+      <forks>83</forks>
+      <addStars>6</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>huiyadanli/RevokeMsgPatcher</title>
+      <link>https://github.com/huiyadanli/RevokeMsgPatcher</link>
+      <description>:trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）</description>
+      <guid>https://github.com/huiyadanli/RevokeMsgPatcher</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>39,094</stars>
+      <forks>4,162</forks>
+      <addStars>5</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>xztsummer/chatgpt-proxy-manager</title>
+      <link>https://github.com/xztsummer/chatgpt-proxy-manager</link>
+      <description>让 ChatGPT 桌面版走本地代理启动，无需开启系统代理或 TUN 模式 | Launch the ChatGPT desktop app through a local proxy without enabling the Windows system proxy or TUN mode</description>
+      <guid>https://github.com/xztsummer/chatgpt-proxy-manager</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>23</stars>
+      <forks>2</forks>
+      <addStars>2</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Facepunch/sbox-public</title>
+      <link>https://github.com/Facepunch/sbox-public</link>
+      <description>s&amp;box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games</description>
+      <guid>https://github.com/Facepunch/sbox-public</guid>
+      <language>C#</language>
+      <languageColor/>
+      <stars>6,520</stars>
+      <forks>754</forks>
+      <addStars>3</addStars>
+      <contributors/>
     </item>
   </channel>
 </rss>

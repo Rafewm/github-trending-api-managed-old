@@ -3,7 +3,7 @@
     <title>GitHub Scss Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Scss Languages in GitHub</description>
-    <pubDate>Tue, 03 Nov 2026 01:39:42 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 17:11:54 GMT</pubDate>
     <item>
       <title>material-components/material-web</title>
       <link>https://github.com/material-components/material-web</link>
@@ -49,8 +49,8 @@
       <guid>https://github.com/academicpages/academicpages.github.io</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>17,774</stars>
-      <forks>9,836</forks>
+      <stars>17,782</stars>
+      <forks>9,841</forks>
       <addStars>127</addStars>
       <contributors>
         <contributor>
@@ -88,7 +88,7 @@
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
       <stars>581</stars>
-      <forks>1,067</forks>
+      <forks>1,068</forks>
       <addStars>7</addStars>
       <contributors>
         <contributor>
@@ -126,13 +126,51 @@
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
       <stars>2,981</stars>
-      <forks>5,941</forks>
+      <forks>5,939</forks>
       <addStars>26</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/16171482?s=40&amp;v=4</avatar>
           <name>RayeRen</name>
           <url>https://github.com/RayeRen</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>cobiwave/simplefolio</title>
+      <link>https://github.com/cobiwave/simplefolio</link>
+      <description>⚡️ A minimal portfolio template for Developers</description>
+      <guid>https://github.com/cobiwave/simplefolio</guid>
+      <language>SCSS</language>
+      <languageColor>#c6538c</languageColor>
+      <stars>14,223</stars>
+      <forks>6,085</forks>
+      <addStars>31</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35739742?s=40&amp;v=4</avatar>
+          <name>cobiwave</name>
+          <url>https://github.com/cobiwave</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/64222167?s=40&amp;v=4</avatar>
+          <name>jacobo-martinez</name>
+          <url>https://github.com/jacobo-martinez</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37514151?s=40&amp;v=4</avatar>
+          <name>SNasser97</name>
+          <url>https://github.com/SNasser97</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11070873?s=40&amp;v=4</avatar>
+          <name>multidimensionalinteractive</name>
+          <url>https://github.com/multidimensionalinteractive</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32886368?s=40&amp;v=4</avatar>
+          <name>gjaiswal108</name>
+          <url>https://github.com/gjaiswal108</url>
         </contributor>
       </contributors>
     </item>
@@ -144,7 +182,7 @@
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
       <stars>9,344</stars>
-      <forks>698</forks>
+      <forks>697</forks>
       <addStars>81</addStars>
       <contributors>
         <contributor>
@@ -208,82 +246,6 @@
       </contributors>
     </item>
     <item>
-      <title>cobiwave/simplefolio</title>
-      <link>https://github.com/cobiwave/simplefolio</link>
-      <description>⚡️ A minimal portfolio template for Developers</description>
-      <guid>https://github.com/cobiwave/simplefolio</guid>
-      <language>SCSS</language>
-      <languageColor>#c6538c</languageColor>
-      <stars>14,221</stars>
-      <forks>6,081</forks>
-      <addStars>31</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35739742?s=40&amp;v=4</avatar>
-          <name>cobiwave</name>
-          <url>https://github.com/cobiwave</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64222167?s=40&amp;v=4</avatar>
-          <name>jacobo-martinez</name>
-          <url>https://github.com/jacobo-martinez</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37514151?s=40&amp;v=4</avatar>
-          <name>SNasser97</name>
-          <url>https://github.com/SNasser97</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11070873?s=40&amp;v=4</avatar>
-          <name>multidimensionalinteractive</name>
-          <url>https://github.com/multidimensionalinteractive</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32886368?s=40&amp;v=4</avatar>
-          <name>gjaiswal108</name>
-          <url>https://github.com/gjaiswal108</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>vinceliuice/Orchis-theme</title>
-      <link>https://github.com/vinceliuice/Orchis-theme</link>
-      <description>Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.</description>
-      <guid>https://github.com/vinceliuice/Orchis-theme</guid>
-      <language>SCSS</language>
-      <languageColor>#c6538c</languageColor>
-      <stars>4,156</stars>
-      <forks>265</forks>
-      <addStars>54</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7604295?s=40&amp;v=4</avatar>
-          <name>vinceliuice</name>
-          <url>https://github.com/vinceliuice</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22682408?s=40&amp;v=4</avatar>
-          <name>Demetrio92</name>
-          <url>https://github.com/Demetrio92</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/131406?s=40&amp;v=4</avatar>
-          <name>kapouer</name>
-          <url>https://github.com/kapouer</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22567908?s=40&amp;v=4</avatar>
-          <name>marmitar</name>
-          <url>https://github.com/marmitar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1464877?s=40&amp;v=4</avatar>
-          <name>ksangers</name>
-          <url>https://github.com/ksangers</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>pages-themes/minimal</title>
       <link>https://github.com/pages-themes/minimal</link>
       <description>Minimal is a Jekyll theme for GitHub Pages</description>
@@ -318,6 +280,44 @@
           <avatar>https://avatars.githubusercontent.com/u/3324775?s=40&amp;v=4</avatar>
           <name>EricFromCanada</name>
           <url>https://github.com/EricFromCanada</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>vinceliuice/Orchis-theme</title>
+      <link>https://github.com/vinceliuice/Orchis-theme</link>
+      <description>Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.</description>
+      <guid>https://github.com/vinceliuice/Orchis-theme</guid>
+      <language>SCSS</language>
+      <languageColor>#c6538c</languageColor>
+      <stars>4,157</stars>
+      <forks>266</forks>
+      <addStars>54</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7604295?s=40&amp;v=4</avatar>
+          <name>vinceliuice</name>
+          <url>https://github.com/vinceliuice</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/22682408?s=40&amp;v=4</avatar>
+          <name>Demetrio92</name>
+          <url>https://github.com/Demetrio92</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/131406?s=40&amp;v=4</avatar>
+          <name>kapouer</name>
+          <url>https://github.com/kapouer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/22567908?s=40&amp;v=4</avatar>
+          <name>marmitar</name>
+          <url>https://github.com/marmitar</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1464877?s=40&amp;v=4</avatar>
+          <name>ksangers</name>
+          <url>https://github.com/ksangers</url>
         </contributor>
       </contributors>
     </item>

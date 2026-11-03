@@ -3,7 +3,7 @@
     <title>GitHub Dart Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Dart Languages in GitHub</description>
-    <pubDate>Tue, 03 Nov 2026 01:39:42 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 17:11:54 GMT</pubDate>
     <item>
       <title>flutter/flutter</title>
       <link>https://github.com/flutter/flutter</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/flutter/flutter</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>181,016</stars>
-      <forks>32,869</forks>
+      <stars>181,026</stars>
+      <forks>32,875</forks>
       <addStars>2,362</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/Predidit/Kazumi</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>40,754</stars>
-      <forks>1,345</forks>
+      <stars>40,842</stars>
+      <forks>1,349</forks>
       <addStars>10,482</addStars>
       <contributors>
         <contributor>
@@ -81,47 +81,14 @@
       </contributors>
     </item>
     <item>
-      <title>chen08209/FlClash</title>
-      <link>https://github.com/chen08209/FlClash</link>
-      <description>A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.</description>
-      <guid>https://github.com/chen08209/FlClash</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>60,549</stars>
-      <forks>3,975</forks>
-      <addStars>6,783</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/66918471?s=40&amp;v=4</avatar>
-          <name>chen08209</name>
-          <url>https://github.com/chen08209</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
-          <name>actions-user</name>
-          <url>https://github.com/actions-user</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/41893946?s=40&amp;v=4</avatar>
-          <name>txyyh</name>
-          <url>https://github.com/txyyh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/101031809?s=40&amp;v=4</avatar>
-          <name>BIGGASSS</name>
-          <url>https://github.com/BIGGASSS</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>getlantern/lantern</title>
       <link>https://github.com/getlantern/lantern</link>
       <description>Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.</description>
       <guid>https://github.com/getlantern/lantern</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>16,649</stars>
-      <forks>11,051</forks>
+      <stars>16,654</stars>
+      <forks>11,049</forks>
       <addStars>647</addStars>
       <contributors>
         <contributor>
@@ -152,14 +119,47 @@
       </contributors>
     </item>
     <item>
+      <title>chen08209/FlClash</title>
+      <link>https://github.com/chen08209/FlClash</link>
+      <description>A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.</description>
+      <guid>https://github.com/chen08209/FlClash</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>60,746</stars>
+      <forks>3,989</forks>
+      <addStars>6,783</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/66918471?s=40&amp;v=4</avatar>
+          <name>chen08209</name>
+          <url>https://github.com/chen08209</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
+          <name>actions-user</name>
+          <url>https://github.com/actions-user</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/41893946?s=40&amp;v=4</avatar>
+          <name>txyyh</name>
+          <url>https://github.com/txyyh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/101031809?s=40&amp;v=4</avatar>
+          <name>BIGGASSS</name>
+          <url>https://github.com/BIGGASSS</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>kodjodevf/mangayomi</title>
       <link>https://github.com/kodjodevf/mangayomi</link>
       <description>Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows</description>
       <guid>https://github.com/kodjodevf/mangayomi</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>4,316</stars>
-      <forks>185</forks>
+      <stars>4,334</stars>
+      <forks>188</forks>
       <addStars>474</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/CyrilPeng/Venera-Next</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>2,084</stars>
-      <forks>68</forks>
+      <stars>2,097</stars>
+      <forks>69</forks>
       <addStars>945</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/edde746/plezy</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>4,068</stars>
-      <forks>456</forks>
+      <stars>4,075</stars>
+      <forks>462</forks>
       <addStars>500</addStars>
       <contributors>
         <contributor>
@@ -262,7 +262,7 @@
       <guid>https://github.com/OpenStrap/edge</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>861</stars>
+      <stars>864</stars>
       <forks>156</forks>
       <addStars>218</addStars>
       <contributors>
@@ -300,8 +300,8 @@
       <guid>https://github.com/ImranR98/Obtainium</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>21,153</stars>
-      <forks>676</forks>
+      <stars>21,177</stars>
+      <forks>677</forks>
       <addStars>1,124</addStars>
       <contributors>
         <contributor>
@@ -332,47 +332,14 @@
       </contributors>
     </item>
     <item>
-      <title>krille-chan/fluffychat</title>
-      <link>https://github.com/krille-chan/fluffychat</link>
-      <description>The cutest instant messenger in the [matrix]</description>
-      <guid>https://github.com/krille-chan/fluffychat</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>3,270</stars>
-      <forks>686</forks>
-      <addStars>126</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24619905?s=40&amp;v=4</avatar>
-          <name>krille-chan</name>
-          <url>https://github.com/krille-chan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2433620?s=40&amp;v=4</avatar>
-          <name>Sorunome</name>
-          <url>https://github.com/Sorunome</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7106279?s=40&amp;v=4</avatar>
-          <name>jelv</name>
-          <url>https://github.com/jelv</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34414563?s=40&amp;v=4</avatar>
-          <name>IhorHordiichuk</name>
-          <url>https://github.com/IhorHordiichuk</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>Anxcye/anx-reader</title>
       <link>https://github.com/Anxcye/anx-reader</link>
       <description>Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.</description>
       <guid>https://github.com/Anxcye/anx-reader</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>9,180</stars>
-      <forks>672</forks>
+      <stars>9,185</stars>
+      <forks>674</forks>
       <addStars>324</addStars>
       <contributors>
         <contributor>
@@ -409,7 +376,7 @@
       <guid>https://github.com/dart-lang/sdk</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>11,331</stars>
+      <stars>11,332</stars>
       <forks>2,056</forks>
       <addStars>55</addStars>
       <contributors>
@@ -441,14 +408,47 @@
       </contributors>
     </item>
     <item>
+      <title>krille-chan/fluffychat</title>
+      <link>https://github.com/krille-chan/fluffychat</link>
+      <description>The cutest instant messenger in the [matrix]</description>
+      <guid>https://github.com/krille-chan/fluffychat</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>3,271</stars>
+      <forks>686</forks>
+      <addStars>126</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24619905?s=40&amp;v=4</avatar>
+          <name>krille-chan</name>
+          <url>https://github.com/krille-chan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2433620?s=40&amp;v=4</avatar>
+          <name>Sorunome</name>
+          <url>https://github.com/Sorunome</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7106279?s=40&amp;v=4</avatar>
+          <name>jelv</name>
+          <url>https://github.com/jelv</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34414563?s=40&amp;v=4</avatar>
+          <name>IhorHordiichuk</name>
+          <url>https://github.com/IhorHordiichuk</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>Predidit/KazumiRules</title>
       <link>https://github.com/Predidit/KazumiRules</link>
       <description>Kazumi的规则托管仓库，欢迎贡献 ^•ﻌ•^</description>
       <guid>https://github.com/Predidit/KazumiRules</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>2,517</stars>
-      <forks>147</forks>
+      <stars>2,519</stars>
+      <forks>148</forks>
       <addStars>393</addStars>
       <contributors>
         <contributor>
@@ -480,8 +480,8 @@
       <guid>https://github.com/wanghongenpin/proxypin</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>14,325</stars>
-      <forks>1,277</forks>
+      <stars>14,333</stars>
+      <forks>1,280</forks>
       <addStars>329</addStars>
       <contributors>
         <contributor>
@@ -518,8 +518,8 @@
       <guid>https://github.com/Kyosee/VeneraX</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>746</stars>
-      <forks>31</forks>
+      <stars>751</stars>
+      <forks>33</forks>
       <addStars>290</addStars>
       <contributors>
         <contributor>
@@ -551,7 +551,7 @@
       <guid>https://github.com/saber-notes/saber</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>5,007</stars>
+      <stars>5,010</stars>
       <forks>421</forks>
       <addStars>160</addStars>
       <contributors>
@@ -578,42 +578,258 @@
       </contributors>
     </item>
     <item>
-      <title>InlitX/GymMane</title>
-      <link>https://github.com/InlitX/GymMane</link>
-      <description>Offline gym log for Android. No account, no ads, no internet.</description>
-      <guid>https://github.com/InlitX/GymMane</guid>
+      <title>xiaoyaocz/dart_simple_live</title>
+      <link>https://github.com/xiaoyaocz/dart_simple_live</link>
+      <description>简简单单的看直播</description>
+      <guid>https://github.com/xiaoyaocz/dart_simple_live</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>1,265</stars>
-      <forks>141</forks>
-      <addStars>531</addStars>
+      <stars>16,215</stars>
+      <forks>3,206</forks>
+      <addStars>259</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/193412982?s=40&amp;v=4</avatar>
-          <name>InlitX</name>
-          <url>https://github.com/InlitX</url>
+          <avatar>https://avatars.githubusercontent.com/u/16559082?s=40&amp;v=4</avatar>
+          <name>xiaoyaocz</name>
+          <url>https://github.com/xiaoyaocz</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/49823690?s=40&amp;v=4</avatar>
-          <name>Marcos6226</name>
-          <url>https://github.com/Marcos6226</url>
+          <avatar>https://avatars.githubusercontent.com/u/25811859?s=40&amp;v=4</avatar>
+          <name>bgylde</name>
+          <url>https://github.com/bgylde</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/126305432?s=40&amp;v=4</avatar>
-          <name>9DYnastY</name>
-          <url>https://github.com/9DYnastY</url>
+          <avatar>https://avatars.githubusercontent.com/u/20356305?s=40&amp;v=4</avatar>
+          <name>SlotSun</name>
+          <url>https://github.com/SlotSun</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/51962051?s=40&amp;v=4</avatar>
-          <name>EinToni</name>
-          <url>https://github.com/EinToni</url>
+          <avatar>https://avatars.githubusercontent.com/u/53986661?s=40&amp;v=4</avatar>
+          <name>AprDeci</name>
+          <url>https://github.com/AprDeci</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/68683017?s=40&amp;v=4</avatar>
-          <name>ariaramin</name>
-          <url>https://github.com/ariaramin</url>
+          <avatar>https://avatars.githubusercontent.com/u/35188529?s=40&amp;v=4</avatar>
+          <name>ybhgl</name>
+          <url>https://github.com/ybhgl</url>
         </contributor>
       </contributors>
+    </item>
+    <item>
+      <title>ccch1mneyyy/dsh-Go</title>
+      <link>https://github.com/ccch1mneyyy/dsh-Go</link>
+      <description>dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。</description>
+      <guid>https://github.com/ccch1mneyyy/dsh-Go</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>5,935</stars>
+      <forks>277</forks>
+      <addStars>2,504</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>jxlarrea/kiosk-satellite</title>
+      <link>https://github.com/jxlarrea/kiosk-satellite</link>
+      <description>Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.</description>
+      <guid>https://github.com/jxlarrea/kiosk-satellite</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>2,445</stars>
+      <forks>83</forks>
+      <addStars>235</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>localsend/localsend</title>
+      <link>https://github.com/localsend/localsend</link>
+      <description>An open-source cross-platform alternative to AirDrop</description>
+      <guid>https://github.com/localsend/localsend</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>97,074</stars>
+      <forks>5,729</forks>
+      <addStars>252</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>bggRGjQaUbCoE/PiliPlus</title>
+      <link>https://github.com/bggRGjQaUbCoE/PiliPlus</link>
+      <description>PiliPlus</description>
+      <guid>https://github.com/bggRGjQaUbCoE/PiliPlus</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>20,200</stars>
+      <forks>1,620</forks>
+      <addStars>144</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Xanerix/guoapp</title>
+      <link>https://github.com/Xanerix/guoapp</link>
+      <description>红果鉴/真果鉴 - 专属私有短剧客户端</description>
+      <guid>https://github.com/Xanerix/guoapp</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>725</stars>
+      <forks>104</forks>
+      <addStars>103</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>CKopoer/BiliSail</title>
+      <link>https://github.com/CKopoer/BiliSail</link>
+      <description>A cross-platform Bilibili third-party client focused on viewing experience</description>
+      <guid>https://github.com/CKopoer/BiliSail</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>417</stars>
+      <forks>18</forks>
+      <addStars>84</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Sle2p/AniCh</title>
+      <link>https://github.com/Sle2p/AniCh</link>
+      <description>一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。</description>
+      <guid>https://github.com/Sle2p/AniCh</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>7,591</stars>
+      <forks>160</forks>
+      <addStars>103</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>looplj/reveric</title>
+      <link>https://github.com/looplj/reveric</link>
+      <description>Agent Native 一站式 AI 小说，短剧桌面创作工作台</description>
+      <guid>https://github.com/looplj/reveric</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>555</stars>
+      <forks>129</forks>
+      <addStars>82</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>AppFlowy-IO/AppFlowy</title>
+      <link>https://github.com/AppFlowy-IO/AppFlowy</link>
+      <description>Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.</description>
+      <guid>https://github.com/AppFlowy-IO/AppFlowy</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>78,126</stars>
+      <forks>6,400</forks>
+      <addStars>84</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>openAnimeFlow/AnimeFlow</title>
+      <link>https://github.com/openAnimeFlow/AnimeFlow</link>
+      <description>跨平台看番 、追番软件,对接Bangumi服务同步用户收藏数据,对接弹弹Play提供弹幕体验，为您提供流畅的观影体验</description>
+      <guid>https://github.com/openAnimeFlow/AnimeFlow</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>397</stars>
+      <forks>27</forks>
+      <addStars>61</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>ch6vip/fqapp</title>
+      <link>https://github.com/ch6vip/fqapp</link>
+      <description>内容聚合 Android 客户端：小说/短剧/漫剧/听书/漫画，Flutter UI + 进程内 Rust 核心，无自建服务器、无需 root</description>
+      <guid>https://github.com/ch6vip/fqapp</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>1,073</stars>
+      <forks>168</forks>
+      <addStars>77</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>mornyeapp/Mornye</title>
+      <link>https://github.com/mornyeapp/Mornye</link>
+      <description>Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, no ads, no subscription.</description>
+      <guid>https://github.com/mornyeapp/Mornye</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>7,629</stars>
+      <forks>430</forks>
+      <addStars>66</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>ente/ente</title>
+      <link>https://github.com/ente/ente</link>
+      <description>💚 End-to-end encrypted cloud for everything.</description>
+      <guid>https://github.com/ente/ente</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>29,846</stars>
+      <forks>2,014</forks>
+      <addStars>53</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>baiyuze/pasteferry</title>
+      <link>https://github.com/baiyuze/pasteferry</link>
+      <description>PasteFerry (隔空贴): clipboard and file sync across macOS, Windows and Linux. Direct-first, end-to-end encrypted. Optional official access: no server to host. Independent self-hosting remains available. 开启官方服务即可跨网络同步。</description>
+      <guid>https://github.com/baiyuze/pasteferry</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>63</stars>
+      <forks>3</forks>
+      <addStars>31</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>KaringX/clashmi</title>
+      <link>https://github.com/KaringX/clashmi</link>
+      <description>Clash Mihomo for iOS/MacOS/Android/Windows/Linux</description>
+      <guid>https://github.com/KaringX/clashmi</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>10,251</stars>
+      <forks>668</forks>
+      <addStars>53</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>hiddify/hiddify-app</title>
+      <link>https://github.com/hiddify/hiddify-app</link>
+      <description>Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.</description>
+      <guid>https://github.com/hiddify/hiddify-app</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>33,606</stars>
+      <forks>3,349</forks>
+      <addStars>50</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>Clash-Projects/LastWave-Desktop</title>
+      <link>https://github.com/Clash-Projects/LastWave-Desktop</link>
+      <description>High-Resolution Lossless Desktop Music Player for Windows, Linux &amp; macOS</description>
+      <guid>https://github.com/Clash-Projects/LastWave-Desktop</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>899</stars>
+      <forks>26</forks>
+      <addStars>48</addStars>
+      <contributors/>
+    </item>
+    <item>
+      <title>z7786/wenxi</title>
+      <link>https://github.com/z7786/wenxi</link>
+      <description>一款面向 Android +Windows 双端聚合网盘解析与管理软件，目前支持16家主流网盘解析</description>
+      <guid>https://github.com/z7786/wenxi</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>1,262</stars>
+      <forks>116</forks>
+      <addStars>48</addStars>
+      <contributors/>
     </item>
   </channel>
 </rss>
