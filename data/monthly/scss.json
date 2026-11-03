@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Monthly Trending",
   "description": "Monthly Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 17:11:15 GMT",
+  "pubDate": "Tue, 03 Nov 2026 01:39:42 GMT",
   "items": [
     {
       "title": "material-components/material-web",
@@ -10,9 +10,9 @@
       "description": "Material Design Web Components",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "11,405",
-      "forks": "1,166",
-      "addStars": "122",
+      "stars": "11,407",
+      "forks": "1,167",
+      "addStars": "125",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34382620?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "17,772",
-      "forks": "9,827",
-      "addStars": "128",
+      "stars": "17,774",
+      "forks": "9,836",
+      "addStars": "127",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1213367?s=40&v=4",
@@ -85,8 +85,8 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "581",
-      "forks": "1,066",
-      "addStars": "6",
+      "forks": "1,067",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/52649?s=40&v=4",
@@ -123,7 +123,7 @@
       "languageColor": "#c6538c",
       "stars": "2,981",
       "forks": "5,941",
-      "addStars": "25",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16171482?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "The conventional commits specification",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "9,342",
-      "forks": "699",
-      "addStars": "79",
+      "stars": "9,344",
+      "forks": "698",
+      "addStars": "81",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8950503?s=40&v=4",
@@ -172,7 +172,7 @@
       "languageColor": "#c6538c",
       "stars": "892",
       "forks": "548",
-      "addStars": "22",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6830979?s=40&v=4",
@@ -207,9 +207,9 @@
       "description": "⚡️ A minimal portfolio template for Developers",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "14,219",
+      "stars": "14,221",
       "forks": "6,081",
-      "addStars": "30",
+      "addStars": "31",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35739742?s=40&v=4",
@@ -239,46 +239,14 @@
       ]
     },
     {
-      "title": "primer/css",
-      "url": "https://github.com/primer/css",
-      "description": "Primer is GitHub's design system. This is the CSS implementation",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": "13,050",
-      "forks": "1,291",
-      "addStars": "43",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/113896?s=40&v=4",
-          "name": "shawnbot",
-          "url": "https://github.com/shawnbot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54012?s=40&v=4",
-          "name": "jonrohan",
-          "url": "https://github.com/jonrohan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/378023?s=40&v=4",
-          "name": "simurai",
-          "url": "https://github.com/simurai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/334891?s=40&v=4",
-          "name": "broccolini",
-          "url": "https://github.com/broccolini"
-        }
-      ]
-    },
-    {
       "title": "vinceliuice/Orchis-theme",
       "url": "https://github.com/vinceliuice/Orchis-theme",
       "description": "Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "4,155",
+      "stars": "4,156",
       "forks": "265",
-      "addStars": "55",
+      "addStars": "54",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7604295?s=40&v=4",

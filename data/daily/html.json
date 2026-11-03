@@ -2,7 +2,7 @@
   "title": "GitHub Html Languages Daily Trending",
   "description": "Daily Trending of Html Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 17:11:15 GMT",
+  "pubDate": "Tue, 03 Nov 2026 01:39:42 GMT",
   "items": [
     {
       "title": "ripienaar/free-for-dev",
@@ -10,8 +10,8 @@
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "141,570",
-      "forks": "15,181",
+      "stars": "141,632",
+      "forks": "15,197",
       "addStars": "274",
       "contributors": [
         {
@@ -47,9 +47,9 @@
       "description": "The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "14,709",
+      "stars": "14,731",
       "forks": "1,027",
-      "addStars": "222",
+      "addStars": "60",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/86096184?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "64,303",
-      "forks": "4,246",
-      "addStars": "603",
+      "stars": "64,365",
+      "forks": "4,253",
+      "addStars": "444",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "30,103",
-      "forks": "6,055",
-      "addStars": "41",
+      "stars": "30,107",
+      "forks": "6,056",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12550285?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "4,463",
+      "stars": "4,472",
       "forks": "385",
-      "addStars": "16",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/144777973?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "🎓 Path to a free self-taught education in Computer Science!",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "210,656",
-      "forks": "26,059",
-      "addStars": "66",
+      "stars": "210,664",
+      "forks": "26,064",
+      "addStars": "50",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4119931?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "23,489",
-      "forks": "3,011",
-      "addStars": "34",
+      "stars": "23,492",
+      "forks": "3,012",
+      "addStars": "47",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28005450?s=40&v=4",

@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Weekly Trending",
   "description": "Weekly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 17:11:15 GMT",
+  "pubDate": "Tue, 03 Nov 2026 01:39:42 GMT",
   "items": [
     {
       "title": "jakubkrehel/skills",
@@ -10,9 +10,9 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "10,297",
-      "forks": "398",
-      "addStars": "1,607",
+      "stars": "10,376",
+      "forks": "401",
+      "addStars": "1,707",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87530089?s=40&v=4",
@@ -32,9 +32,9 @@
       "description": "An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "2,562",
-      "forks": "423",
-      "addStars": "474",
+      "stars": "2,565",
+      "forks": "425",
+      "addStars": "484",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15268570?s=40&v=4",
@@ -59,9 +59,9 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "558,798",
-      "forks": "52,284",
-      "addStars": "2,193",
+      "stars": "558,917",
+      "forks": "52,295",
+      "addStars": "2,536",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1736595?s=40&v=4",
@@ -98,7 +98,7 @@
       "languageColor": "#083fa1",
       "stars": "10,996",
       "forks": "21,740",
-      "addStars": "4",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4665434?s=40&v=4",
@@ -128,9 +128,9 @@
       "description": "Free domain registration and practical DNS learning resources for everyone.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "206,827",
-      "forks": "4,644",
-      "addStars": "1,131",
+      "stars": "206,852",
+      "forks": "4,645",
+      "addStars": "1,160",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39870096?s=40&v=4",
@@ -150,9 +150,9 @@
       "description": "Public documentation for Visual Studio Code",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "6,683",
+      "stars": "6,682",
       "forks": "5,808",
-      "addStars": "8",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1908215?s=40&v=4",
@@ -188,8 +188,8 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "4,680",
-      "forks": "8,530",
-      "addStars": "7",
+      "forks": "8,532",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35727626?s=40&v=4",
@@ -224,9 +224,9 @@
       "description": "Collaborative cheatsheets for console commands 📚.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "64,106",
-      "forks": "5,664",
-      "addStars": "78",
+      "stars": "64,108",
+      "forks": "5,680",
+      "addStars": "77",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42655600?s=40&v=4",
@@ -263,7 +263,7 @@
       "languageColor": "#083fa1",
       "stars": "31,291",
       "forks": "9,145",
-      "addStars": "21",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/951576?s=40&v=4",
@@ -298,9 +298,9 @@
       "description": "Code documentation written as code! How novel and totally my idea!",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "12,375",
-      "forks": "3,707",
-      "addStars": "8",
+      "stars": "12,376",
+      "forks": "3,709",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/515720?s=40&v=4",
@@ -335,8 +335,8 @@
       "description": "🎮 📝 A list of Game Development resources to make magic happen.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "17,667",
-      "forks": "1,317",
+      "stars": "17,670",
+      "forks": "1,320",
       "addStars": "82",
       "contributors": [
         {
@@ -372,7 +372,7 @@
       "description": "RFCs for changes to Rust",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "6,628",
+      "stars": "6,630",
       "forks": "1,705",
       "addStars": "11",
       "contributors": [
@@ -411,7 +411,7 @@
       "languageColor": "#083fa1",
       "stars": "5,996",
       "forks": "5,439",
-      "addStars": "8",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54227730?s=40&v=4",
@@ -478,9 +478,9 @@
       "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "11,120",
-      "forks": "23,276",
-      "addStars": "33",
+      "stars": "11,121",
+      "forks": "23,278",
+      "addStars": "32",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/55398995?s=40&v=4",
@@ -515,9 +515,9 @@
       "description": "A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "6,398",
+      "stars": "6,399",
       "forks": "967",
-      "addStars": "13",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53873209?s=40&v=4",
@@ -552,9 +552,9 @@
       "description": "🔥 A Complete List of GitHub Profile Badges and Achievements 🔥",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "3,214",
+      "stars": "3,215",
       "forks": "318",
-      "addStars": "16",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65187002?s=40&v=4",

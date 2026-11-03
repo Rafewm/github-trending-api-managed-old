@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Python Languages in GitHub</description>
-    <pubDate>Mon, 02 Nov 2026 17:11:15 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 01:39:42 GMT</pubDate>
     <item>
       <title>D4Vinci/Scrapling</title>
       <link>https://github.com/D4Vinci/Scrapling</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>92,516</stars>
-      <forks>9,756</forks>
-      <addStars>858</addStars>
+      <stars>92,960</stars>
+      <forks>9,786</forks>
+      <addStars>706</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/FlashML-org/FreeToken</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,895</stars>
-      <forks>1,576</forks>
-      <addStars>654</addStars>
+      <stars>16,096</stars>
+      <forks>1,588</forks>
+      <addStars>653</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/36730318?s=40&amp;v=4</avatar>
@@ -64,14 +64,14 @@
           <url>https://github.com/andy-yang-1</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/234872336?s=40&amp;v=4</avatar>
-          <name>taking-lying-flat</name>
-          <url>https://github.com/taking-lying-flat</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/30838527?s=40&amp;v=4</avatar>
           <name>void-mckenzie</name>
           <url>https://github.com/void-mckenzie</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/234872336?s=40&amp;v=4</avatar>
+          <name>taking-lying-flat</name>
+          <url>https://github.com/taking-lying-flat</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/16487352?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/shiyu-coder/Kronos</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,872</stars>
-      <forks>7,570</forks>
-      <addStars>855</addStars>
+      <stars>46,025</stars>
+      <forks>7,588</forks>
+      <addStars>857</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/65760973?s=40&amp;v=4</avatar>
@@ -125,8 +125,8 @@
       <guid>https://github.com/kornia/kornia</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,057</stars>
-      <forks>1,485</forks>
+      <stars>12,143</stars>
+      <forks>1,490</forks>
       <addStars>412</addStars>
       <contributors>
         <contributor>
@@ -158,9 +158,9 @@
       <guid>https://github.com/karpathy/nanochat</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>59,734</stars>
-      <forks>8,399</forks>
-      <addStars>325</addStars>
+      <stars>59,915</stars>
+      <forks>8,414</forks>
+      <addStars>321</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
@@ -196,9 +196,9 @@
       <guid>https://github.com/p-e-w/heretic</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>37,910</stars>
-      <forks>4,313</forks>
-      <addStars>404</addStars>
+      <stars>38,123</stars>
+      <forks>4,325</forks>
+      <addStars>420</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2702526?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/github/spec-kit</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>145,358</stars>
-      <forks>13,029</forks>
-      <addStars>548</addStars>
+      <stars>145,577</stars>
+      <forks>13,058</forks>
+      <addStars>540</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/15701806?s=40&amp;v=4</avatar>
@@ -257,9 +257,9 @@
       <guid>https://github.com/beenuar/AiSOC</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,600</stars>
-      <forks>674</forks>
-      <addStars>714</addStars>
+      <stars>6,704</stars>
+      <forks>684</forks>
+      <addStars>659</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/19245630?s=40&amp;v=4</avatar>
@@ -290,9 +290,9 @@
       <guid>https://github.com/public-apis/public-apis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>495,416</stars>
-      <forks>55,289</forks>
-      <addStars>1,386</addStars>
+      <stars>495,545</stars>
+      <forks>55,320</forks>
+      <addStars>1,311</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/278394627?s=40&amp;v=4</avatar>
@@ -328,9 +328,9 @@
       <guid>https://github.com/calesthio/OpenMontage</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>75,089</stars>
-      <forks>9,889</forks>
-      <addStars>742</addStars>
+      <stars>75,342</stars>
+      <forks>9,938</forks>
+      <addStars>693</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/213189893?s=40&amp;v=4</avatar>
@@ -366,9 +366,9 @@
       <guid>https://github.com/derv82/wifit3</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,034</stars>
-      <forks>302</forks>
-      <addStars>201</addStars>
+      <stars>3,052</stars>
+      <forks>305</forks>
+      <addStars>217</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/993464?s=40&amp;v=4</avatar>
@@ -404,8 +404,8 @@
       <guid>https://github.com/mealie-recipes/mealie</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,777</stars>
-      <forks>1,631</forks>
+      <stars>13,783</stars>
+      <forks>1,638</forks>
       <addStars>17</addStars>
       <contributors>
         <contributor>
@@ -437,9 +437,9 @@
       <guid>https://github.com/NanmiCoder/MediaCrawler</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>69,867</stars>
-      <forks>13,258</forks>
-      <addStars>343</addStars>
+      <stars>69,920</stars>
+      <forks>13,271</forks>
+      <addStars>294</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/47178017?s=40&amp;v=4</avatar>
@@ -475,9 +475,9 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>66,342</stars>
-      <forks>5,801</forks>
-      <addStars>141</addStars>
+      <stars>66,378</stars>
+      <forks>5,809</forks>
+      <addStars>136</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4</avatar>

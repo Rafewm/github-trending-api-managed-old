@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 17:11:15 GMT",
+  "pubDate": "Tue, 03 Nov 2026 01:39:42 GMT",
   "items": [
     {
       "title": "D4Vinci/Scrapling",
@@ -10,9 +10,9 @@
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "92,516",
-      "forks": "9,756",
-      "addStars": "858",
+      "stars": "92,960",
+      "forks": "9,786",
+      "addStars": "706",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,895",
-      "forks": "1,576",
-      "addStars": "654",
+      "stars": "16,096",
+      "forks": "1,588",
+      "addStars": "653",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36730318?s=40&v=4",
@@ -62,14 +62,14 @@
           "url": "https://github.com/andy-yang-1"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/234872336?s=40&v=4",
-          "name": "taking-lying-flat",
-          "url": "https://github.com/taking-lying-flat"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/30838527?s=40&v=4",
           "name": "void-mckenzie",
           "url": "https://github.com/void-mckenzie"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/234872336?s=40&v=4",
+          "name": "taking-lying-flat",
+          "url": "https://github.com/taking-lying-flat"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/16487352?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "45,872",
-      "forks": "7,570",
-      "addStars": "855",
+      "stars": "46,025",
+      "forks": "7,588",
+      "addStars": "857",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
@@ -121,8 +121,8 @@
       "description": "🐍 Geometric Computer Vision Library for Spatial AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,057",
-      "forks": "1,485",
+      "stars": "12,143",
+      "forks": "1,490",
       "addStars": "412",
       "contributors": [
         {
@@ -153,9 +153,9 @@
       "description": "The best ChatGPT that $100 can buy.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,734",
-      "forks": "8,399",
-      "addStars": "325",
+      "stars": "59,915",
+      "forks": "8,414",
+      "addStars": "321",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,910",
-      "forks": "4,313",
-      "addStars": "404",
+      "stars": "38,123",
+      "forks": "4,325",
+      "addStars": "420",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "145,358",
-      "forks": "13,029",
-      "addStars": "548",
+      "stars": "145,577",
+      "forks": "13,058",
+      "addStars": "540",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15701806?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,600",
-      "forks": "674",
-      "addStars": "714",
+      "stars": "6,704",
+      "forks": "684",
+      "addStars": "659",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19245630?s=40&v=4",
@@ -281,9 +281,9 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "495,416",
-      "forks": "55,289",
-      "addStars": "1,386",
+      "stars": "495,545",
+      "forks": "55,320",
+      "addStars": "1,311",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/278394627?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "75,089",
-      "forks": "9,889",
-      "addStars": "742",
+      "stars": "75,342",
+      "forks": "9,938",
+      "addStars": "693",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
@@ -355,9 +355,9 @@
       "description": "Wifite but USB-only & cross-platform.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,034",
-      "forks": "302",
-      "addStars": "201",
+      "stars": "3,052",
+      "forks": "305",
+      "addStars": "217",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/993464?s=40&v=4",
@@ -392,8 +392,8 @@
       "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,777",
-      "forks": "1,631",
+      "stars": "13,783",
+      "forks": "1,638",
       "addStars": "17",
       "contributors": [
         {
@@ -424,9 +424,9 @@
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "69,867",
-      "forks": "13,258",
-      "addStars": "343",
+      "stars": "69,920",
+      "forks": "13,271",
+      "addStars": "294",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/47178017?s=40&v=4",
@@ -461,9 +461,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "66,342",
-      "forks": "5,801",
-      "addStars": "141",
+      "stars": "66,378",
+      "forks": "5,809",
+      "addStars": "136",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",

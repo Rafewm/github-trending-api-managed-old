@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 17:11:15 GMT",
+  "pubDate": "Tue, 03 Nov 2026 01:39:42 GMT",
   "items": [
     {
       "title": "end-4/dots-hyprland",
@@ -10,9 +10,9 @@
       "description": "Usability-first dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "16,531",
+      "stars": "16,537",
       "forks": "1,427",
-      "addStars": "7",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/97237370?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A shell for wayland compositors",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "7,576",
+      "stars": "7,581",
       "forks": "345",
-      "addStars": "15",
+      "addStars": "19",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/142908366?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "// A Niri shell // with bloat and stuff!",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "1,898",
+      "stars": "1,904",
       "forks": "113",
-      "addStars": "6",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/190140834?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "A fluid, morphing shell for your Linux desktop",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "13,206",
-      "forks": "991",
-      "addStars": "12",
+      "stars": "13,213",
+      "forks": "993",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/61896496?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Caelestia ported to KDE Plasma 6",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "1,031",
+      "stars": "1,034",
       "forks": "65",
-      "addStars": "5",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/61896496?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "3,011",
+      "stars": "3,014",
       "forks": "126",
-      "addStars": "6",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/91195954?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Custom end4",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "3,699",
-      "forks": "234",
-      "addStars": "15",
+      "stars": "3,702",
+      "forks": "235",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/185014097?s=40&v=4",
@@ -261,7 +261,7 @@
       "languageColor": "#44a51c",
       "stars": "1,132",
       "forks": "25",
-      "addStars": "4",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/56029514?s=40&v=4",
@@ -276,14 +276,51 @@
       ]
     },
     {
+      "title": "enhaoswen/Tide-island",
+      "url": "https://github.com/enhaoswen/Tide-island",
+      "description": "Tide Island is a smooth, lightweight, and flexible interactive island for Hyprland.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "776",
+      "forks": "50",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/240133967?s=40&v=4",
+          "name": "enhaoswen",
+          "url": "https://github.com/enhaoswen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/177221267?s=40&v=4",
+          "name": "whysooraj",
+          "url": "https://github.com/whysooraj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/132834022?s=40&v=4",
+          "name": "Bimbok",
+          "url": "https://github.com/Bimbok"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/152638409?s=40&v=4",
+          "name": "gozhuimeng",
+          "url": "https://github.com/gozhuimeng"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/148686892?s=40&v=4",
+          "name": "GustavoPiaz2102",
+          "url": "https://github.com/GustavoPiaz2102"
+        }
+      ]
+    },
+    {
       "title": "Keyitdev/sddm-astronaut-theme",
       "url": "https://github.com/Keyitdev/sddm-astronaut-theme",
       "description": "Series of modern looking themes for SDDM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "3,368",
+      "stars": "3,370",
       "forks": "215",
-      "addStars": "4",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70140437?s=40&v=4",
@@ -318,9 +355,9 @@
       "description": "Arch Linux + Hyprland desktop: a Quickshell shell with a dynamic island, desktop widgets, notes and tasks, and a one-script installer",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "418",
+      "stars": "421",
       "forks": "34",
-      "addStars": "2",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/172328762?s=40&v=4",

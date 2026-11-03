@@ -3,7 +3,40 @@
     <title>GitHub Mdx Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Mdx Languages in GitHub</description>
-    <pubDate>Mon, 02 Nov 2026 17:11:15 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 01:39:42 GMT</pubDate>
+    <item>
+      <title>magicuidesign/magicui</title>
+      <link>https://github.com/magicuidesign/magicui</link>
+      <description>UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</description>
+      <guid>https://github.com/magicuidesign/magicui</guid>
+      <language>MDX</language>
+      <languageColor>#fcb32c</languageColor>
+      <stars>23,051</stars>
+      <forks>1,224</forks>
+      <addStars>179</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16860528?s=40&amp;v=4</avatar>
+          <name>dillionverma</name>
+          <url>https://github.com/dillionverma</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/89768406?s=40&amp;v=4</avatar>
+          <name>itsarghyadas</name>
+          <url>https://github.com/itsarghyadas</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81306489?s=40&amp;v=4</avatar>
+          <name>Yeom-JinHo</name>
+          <url>https://github.com/Yeom-JinHo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>f/prompts.chat</title>
       <link>https://github.com/f/prompts.chat</link>
@@ -11,9 +44,9 @@
       <guid>https://github.com/f/prompts.chat</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>175,604</stars>
-      <forks>22,409</forks>
-      <addStars>1,091</addStars>
+      <stars>175,629</stars>
+      <forks>22,412</forks>
+      <addStars>1,065</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/196477?s=40&amp;v=4</avatar>
@@ -49,9 +82,9 @@
       <guid>https://github.com/twbs/bootstrap</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>174,966</stars>
-      <forks>78,512</forks>
-      <addStars>83</addStars>
+      <stars>174,965</stars>
+      <forks>78,521</forks>
+      <addStars>86</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/98681?s=40&amp;v=4</avatar>
@@ -82,9 +115,9 @@
       <guid>https://github.com/cloudflare/cloudflare-docs</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>5,396</stars>
-      <forks>17,323</forks>
-      <addStars>33</addStars>
+      <stars>5,399</stars>
+      <forks>17,326</forks>
+      <addStars>38</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/680496?s=40&amp;v=4</avatar>
@@ -120,9 +153,9 @@
       <guid>https://github.com/thedaviddias/Front-End-Checklist</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>74,633</stars>
-      <forks>6,779</forks>
-      <addStars>81</addStars>
+      <stars>74,637</stars>
+      <forks>6,780</forks>
+      <addStars>89</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/237229?s=40&amp;v=4</avatar>
@@ -154,7 +187,7 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>443</stars>
-      <forks>2,784</forks>
+      <forks>2,785</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -191,9 +224,9 @@
       <guid>https://github.com/dair-ai/Prompt-Engineering-Guide</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>79,750</stars>
-      <forks>8,760</forks>
-      <addStars>258</addStars>
+      <stars>79,756</stars>
+      <forks>8,765</forks>
+      <addStars>231</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7049564?s=40&amp;v=4</avatar>
@@ -230,7 +263,7 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>2,169</stars>
-      <forks>6,383</forks>
+      <forks>6,384</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -262,7 +295,7 @@
       <guid>https://github.com/prisma/web</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>1,106</stars>
+      <stars>1,105</stars>
       <forks>1,009</forks>
       <addStars>1</addStars>
       <contributors>
@@ -339,7 +372,7 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>466</stars>
-      <forks>2,460</forks>
+      <forks>2,463</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -377,7 +410,7 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>50</stars>
-      <forks>857</forks>
+      <forks>858</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -414,9 +447,9 @@
       <guid>https://github.com/wasp-lang/open-saas</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>16,238</stars>
+      <stars>16,240</stars>
       <forks>1,965</forks>
-      <addStars>82</addStars>
+      <addStars>81</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70215737?s=40&amp;v=4</avatar>
@@ -490,9 +523,9 @@
       <guid>https://github.com/huggingface/agents-course</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>34,352</stars>
-      <forks>2,459</forks>
-      <addStars>317</addStars>
+      <stars>34,372</stars>
+      <forks>2,461</forks>
+      <addStars>332</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/17179696?s=40&amp;v=4</avatar>
@@ -529,8 +562,8 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>6,525</stars>
-      <forks>1,393</forks>
-      <addStars>5</addStars>
+      <forks>1,391</forks>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11778454?s=40&amp;v=4</avatar>
@@ -566,7 +599,7 @@
       <guid>https://github.com/wix/react-native-navigation</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>13,171</stars>
+      <stars>13,170</stars>
       <forks>2,622</forks>
       <addStars>0</addStars>
       <contributors>
@@ -605,8 +638,8 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>306</stars>
-      <forks>175</forks>
-      <addStars>1</addStars>
+      <forks>176</forks>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/49853598?s=40&amp;v=4</avatar>
@@ -642,8 +675,8 @@
       <guid>https://github.com/jellyfin/jellyfin.org</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>170</stars>
-      <forks>744</forks>
+      <stars>171</stars>
+      <forks>745</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -675,9 +708,9 @@
       <guid>https://github.com/adongwanai/AgentGuide</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>11,568</stars>
-      <forks>1,081</forks>
-      <addStars>269</addStars>
+      <stars>11,572</stars>
+      <forks>1,082</forks>
+      <addStars>270</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/155899169?s=40&amp;v=4</avatar>
@@ -747,8 +780,8 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>1,700</stars>
-      <forks>1,902</forks>
-      <addStars>4</addStars>
+      <forks>1,903</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/61414485?s=40&amp;v=4</avatar>
@@ -786,7 +819,7 @@
       <languageColor>#fcb32c</languageColor>
       <stars>3,550</stars>
       <forks>284</forks>
-      <addStars>73</addStars>
+      <addStars>63</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/31760283?s=40&amp;v=4</avatar>

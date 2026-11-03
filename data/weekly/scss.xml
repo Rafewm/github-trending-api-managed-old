@@ -3,7 +3,7 @@
     <title>GitHub Scss Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Scss Languages in GitHub</description>
-    <pubDate>Mon, 02 Nov 2026 17:11:15 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 01:39:42 GMT</pubDate>
     <item>
       <title>academicpages/academicpages.github.io</title>
       <link>https://github.com/academicpages/academicpages.github.io</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/academicpages/academicpages.github.io</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>17,772</stars>
-      <forks>9,827</forks>
-      <addStars>25</addStars>
+      <stars>17,774</stars>
+      <forks>9,836</forks>
+      <addStars>28</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1213367?s=40&amp;v=4</avatar>
@@ -50,8 +50,8 @@
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
       <stars>581</stars>
-      <forks>1,066</forks>
-      <addStars>0</addStars>
+      <forks>1,067</forks>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/52649?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/material-components/material-web</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>11,405</stars>
-      <forks>1,166</forks>
-      <addStars>30</addStars>
+      <stars>11,407</stars>
+      <forks>1,167</forks>
+      <addStars>32</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/34382620?s=40&amp;v=4</avatar>
@@ -125,9 +125,9 @@
       <guid>https://github.com/cobiwave/simplefolio</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>14,219</stars>
+      <stars>14,221</stars>
       <forks>6,081</forks>
-      <addStars>8</addStars>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/35739742?s=40&amp;v=4</avatar>
@@ -201,9 +201,9 @@
       <guid>https://github.com/conventional-commits/conventionalcommits.org</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>9,342</stars>
-      <forks>699</forks>
-      <addStars>19</addStars>
+      <stars>9,344</stars>
+      <forks>698</forks>
+      <addStars>18</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8950503?s=40&amp;v=4</avatar>
@@ -228,48 +228,15 @@
       </contributors>
     </item>
     <item>
-      <title>primer/css</title>
-      <link>https://github.com/primer/css</link>
-      <description>Primer is GitHub's design system. This is the CSS implementation</description>
-      <guid>https://github.com/primer/css</guid>
-      <language>SCSS</language>
-      <languageColor>#c6538c</languageColor>
-      <stars>13,050</stars>
-      <forks>1,291</forks>
-      <addStars>10</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/113896?s=40&amp;v=4</avatar>
-          <name>shawnbot</name>
-          <url>https://github.com/shawnbot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54012?s=40&amp;v=4</avatar>
-          <name>jonrohan</name>
-          <url>https://github.com/jonrohan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/378023?s=40&amp;v=4</avatar>
-          <name>simurai</name>
-          <url>https://github.com/simurai</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/334891?s=40&amp;v=4</avatar>
-          <name>broccolini</name>
-          <url>https://github.com/broccolini</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>just-the-docs/just-the-docs</title>
       <link>https://github.com/just-the-docs/just-the-docs</link>
       <description>A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</description>
       <guid>https://github.com/just-the-docs/just-the-docs</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>9,227</stars>
-      <forks>3,778</forks>
-      <addStars>13</addStars>
+      <stars>9,228</stars>
+      <forks>3,779</forks>
+      <addStars>11</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/896475?s=40&amp;v=4</avatar>
@@ -333,7 +300,7 @@
       <guid>https://github.com/vinceliuice/MacTahoe-gtk-theme</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>1,712</stars>
+      <stars>1,714</stars>
       <forks>105</forks>
       <addStars>24</addStars>
       <contributors>
@@ -373,7 +340,7 @@
       <languageColor>#c6538c</languageColor>
       <stars>2,920</stars>
       <forks>39</forks>
-      <addStars>10</addStars>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5861237?s=40&amp;v=4</avatar>

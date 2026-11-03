@@ -2,17 +2,17 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 17:11:15 GMT",
+  "pubDate": "Tue, 03 Nov 2026 01:39:42 GMT",
   "items": [
     {
       "title": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
+      "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,794",
-      "forks": "611",
-      "addStars": "2,243",
+      "stars": "9,904",
+      "forks": "664",
+      "addStars": "2,275",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
@@ -32,9 +32,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,921",
-      "forks": "356",
-      "addStars": "136",
+      "stars": "10,056",
+      "forks": "363",
+      "addStars": "77",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
@@ -59,9 +59,9 @@
       "description": "Local voice dictation for mac, windows and linux",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,974",
-      "forks": "234",
-      "addStars": "1,332",
+      "stars": "4,101",
+      "forks": "241",
+      "addStars": "1,134",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7587245?s=40&v=4",
@@ -91,9 +91,9 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,072",
-      "forks": "3,487",
-      "addStars": "995",
+      "stars": "37,169",
+      "forks": "3,495",
+      "addStars": "852",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1559480?s=40&v=4",
@@ -111,14 +111,14 @@
           "url": "https://github.com/vladstudio"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10460518?s=40&v=4",
-          "name": "VirenMohindra",
-          "url": "https://github.com/VirenMohindra"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/9982364?s=40&v=4",
           "name": "xilec",
           "url": "https://github.com/xilec"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10460518?s=40&v=4",
+          "name": "VirenMohindra",
+          "url": "https://github.com/VirenMohindra"
         }
       ]
     },
@@ -128,9 +128,9 @@
       "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,709",
-      "forks": "163",
-      "addStars": "205",
+      "stars": "1,741",
+      "forks": "167",
+      "addStars": "206",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/109857817?s=40&v=4",
@@ -165,9 +165,9 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "24,959",
-      "forks": "898",
-      "addStars": "113",
+      "stars": "24,980",
+      "forks": "900",
+      "addStars": "108",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
@@ -192,9 +192,9 @@
       "description": "Feature rich, native desktop, YouTube Music client.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,709",
-      "forks": "111",
-      "addStars": "154",
+      "stars": "1,735",
+      "forks": "112",
+      "addStars": "101",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/153776287?s=40&v=4",
@@ -229,8 +229,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "45,254",
-      "forks": "3,103",
+      "stars": "45,292",
+      "forks": "3,108",
       "addStars": "136",
       "contributors": [
         {
@@ -261,8 +261,8 @@
       "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "13,767",
-      "forks": "1,701",
+      "stars": "13,828",
+      "forks": "1,709",
       "addStars": "302",
       "contributors": [
         {
@@ -298,9 +298,9 @@
       "description": "The Open Runtime for AI Agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,524",
-      "forks": "3,063",
-      "addStars": "522",
+      "stars": "11,540",
+      "forks": "3,070",
+      "addStars": "293",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -335,9 +335,9 @@
       "description": "Free, open-source RAW editor for Linux, Android, Windows and macOS. GPU-accelerated, non-destructive, with masks, HDR merge and local AI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "234",
-      "forks": "15",
-      "addStars": "19",
+      "stars": "251",
+      "forks": "16",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/77442285?s=40&v=4",

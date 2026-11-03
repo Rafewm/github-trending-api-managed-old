@@ -3,7 +3,7 @@
     <title>GitHub Ruby Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Ruby Languages in GitHub</description>
-    <pubDate>Mon, 02 Nov 2026 17:11:15 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 01:39:42 GMT</pubDate>
     <item>
       <title>we-promise/sure</title>
       <link>https://github.com/we-promise/sure</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/we-promise/sure</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>10,764</stars>
-      <forks>730</forks>
-      <addStars>10</addStars>
+      <stars>10,773</stars>
+      <forks>733</forks>
+      <addStars>20</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/187772?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/Homebrew/homebrew-cask</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>22,283</stars>
-      <forks>12,055</forks>
-      <addStars>6</addStars>
+      <stars>22,282</stars>
+      <forks>12,057</forks>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1589480?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/Freika/dawarich</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>10,814</stars>
+      <stars>10,817</stars>
       <forks>415</forks>
-      <addStars>12</addStars>
+      <addStars>16</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3738638?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/Homebrew/brew</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>50,192</stars>
-      <forks>11,415</forks>
-      <addStars>19</addStars>
+      <stars>50,191</stars>
+      <forks>11,416</forks>
+      <addStars>12</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/125011?s=40&amp;v=4</avatar>
@@ -155,7 +155,7 @@
       <languageColor>#701516</languageColor>
       <stars>15,806</stars>
       <forks>5,319</forks>
-      <addStars>3</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/55154?s=40&amp;v=4</avatar>
@@ -192,8 +192,8 @@
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
       <stars>58,846</stars>
-      <forks>23,855</forks>
-      <addStars>2</addStars>
+      <forks>23,865</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/47848?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/fastlane/fastlane</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>42,342</stars>
+      <stars>42,341</stars>
       <forks>6,052</forks>
-      <addStars>6</addStars>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/869950?s=40&amp;v=4</avatar>
@@ -305,8 +305,8 @@
       <guid>https://github.com/github/explore</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>4,945</stars>
-      <forks>14,696</forks>
+      <stars>4,946</stars>
+      <forks>14,697</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -383,7 +383,7 @@
       <languageColor>#701516</languageColor>
       <stars>5,831</stars>
       <forks>1,585</forks>
-      <addStars>1</addStars>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1144873?s=40&amp;v=4</avatar>
@@ -414,9 +414,9 @@
       <guid>https://github.com/opf/openproject</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>16,931</stars>
-      <forks>3,675</forks>
-      <addStars>32</addStars>
+      <stars>16,942</stars>
+      <forks>3,678</forks>
+      <addStars>36</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/459462?s=40&amp;v=4</avatar>
@@ -453,8 +453,8 @@
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
       <stars>16,917</stars>
-      <forks>1,321</forks>
-      <addStars>1</addStars>
+      <forks>1,320</forks>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4765?s=40&amp;v=4</avatar>
@@ -480,9 +480,9 @@
       <guid>https://github.com/hashicorp/vagrant</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>27,218</stars>
-      <forks>4,527</forks>
-      <addStars>1</addStars>
+      <stars>27,219</stars>
+      <forks>4,526</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1299?s=40&amp;v=4</avatar>
@@ -546,9 +546,9 @@
       <guid>https://github.com/mastodon/mastodon</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>50,465</stars>
-      <forks>7,536</forks>
-      <addStars>2</addStars>
+      <stars>50,467</stars>
+      <forks>7,537</forks>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/184731?s=40&amp;v=4</avatar>
@@ -574,9 +574,9 @@
       <guid>https://github.com/urbanadventurer/WhatWeb</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>6,976</stars>
+      <stars>6,978</stars>
       <forks>1,019</forks>
-      <addStars>11</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/434827?s=40&amp;v=4</avatar>

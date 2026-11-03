@@ -3,17 +3,17 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 02 Nov 2026 17:11:15 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 01:39:42 GMT</pubDate>
     <item>
       <title>vercel-labs/agent-desktop</title>
       <link>https://github.com/vercel-labs/agent-desktop</link>
-      <description>Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.</description>
+      <description>Computer use CLI for AI agents</description>
       <guid>https://github.com/vercel-labs/agent-desktop</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>8,748</stars>
-      <forks>606</forks>
-      <addStars>2,243</addStars>
+      <stars>9,825</stars>
+      <forks>662</forks>
+      <addStars>2,275</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4</avatar>
@@ -34,9 +34,9 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>110,458</stars>
-      <forks>9,640</forks>
-      <addStars>1,799</addStars>
+      <stars>110,776</stars>
+      <forks>9,659</forks>
+      <addStars>1,803</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4</avatar>
@@ -72,9 +72,9 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>92,504</stars>
-      <forks>9,756</forks>
-      <addStars>858</addStars>
+      <stars>92,935</stars>
+      <forks>9,782</forks>
+      <addStars>706</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4</avatar>
@@ -110,9 +110,9 @@
       <guid>https://github.com/hyprwm/Hyprland</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>39,763</stars>
-      <forks>2,147</forks>
-      <addStars>508</addStars>
+      <stars>39,948</stars>
+      <forks>2,157</forks>
+      <addStars>509</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43317083?s=40&amp;v=4</avatar>
@@ -148,9 +148,9 @@
       <guid>https://github.com/Donchitos/Claude-Code-Game-Studios</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>33,258</stars>
-      <forks>4,499</forks>
-      <addStars>1,380</addStars>
+      <stars>33,591</stars>
+      <forks>4,523</forks>
+      <addStars>1,379</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/150119193?s=40&amp;v=4</avatar>
@@ -171,9 +171,9 @@
       <guid>https://github.com/FlashML-org/FreeToken</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,888</stars>
-      <forks>1,576</forks>
-      <addStars>654</addStars>
+      <stars>16,083</stars>
+      <forks>1,587</forks>
+      <addStars>653</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/36730318?s=40&amp;v=4</avatar>
@@ -186,14 +186,14 @@
           <url>https://github.com/andy-yang-1</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/234872336?s=40&amp;v=4</avatar>
-          <name>taking-lying-flat</name>
-          <url>https://github.com/taking-lying-flat</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/30838527?s=40&amp;v=4</avatar>
           <name>void-mckenzie</name>
           <url>https://github.com/void-mckenzie</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/234872336?s=40&amp;v=4</avatar>
+          <name>taking-lying-flat</name>
+          <url>https://github.com/taking-lying-flat</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/16487352?s=40&amp;v=4</avatar>
@@ -209,9 +209,9 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>40,883</stars>
-      <forks>9,043</forks>
-      <addStars>3,216</addStars>
+      <stars>42,017</stars>
+      <forks>9,105</forks>
+      <addStars>3,229</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4</avatar>
@@ -247,9 +247,9 @@
       <guid>https://github.com/shiyu-coder/Kronos</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,866</stars>
-      <forks>7,570</forks>
-      <addStars>855</addStars>
+      <stars>46,022</stars>
+      <forks>7,587</forks>
+      <addStars>857</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/65760973?s=40&amp;v=4</avatar>
@@ -285,8 +285,8 @@
       <guid>https://github.com/kornia/kornia</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,054</stars>
-      <forks>1,485</forks>
+      <stars>12,137</stars>
+      <forks>1,489</forks>
       <addStars>412</addStars>
       <contributors>
         <contributor>
@@ -318,9 +318,9 @@
       <guid>https://github.com/JustVugg/colibri</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>46,345</stars>
-      <forks>5,358</forks>
-      <addStars>655</addStars>
+      <stars>46,576</stars>
+      <forks>5,383</forks>
+      <addStars>675</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/13022503?s=40&amp;v=4</avatar>
@@ -356,9 +356,9 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>309,969</stars>
-      <forks>26,079</forks>
-      <addStars>970</addStars>
+      <stars>310,258</stars>
+      <forks>26,097</forks>
+      <addStars>858</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4</avatar>
@@ -384,9 +384,9 @@
       <guid>https://github.com/max-sixty/worktrunk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>9,916</stars>
-      <forks>355</forks>
-      <addStars>136</addStars>
+      <stars>10,050</stars>
+      <forks>362</forks>
+      <addStars>77</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5635139?s=40&amp;v=4</avatar>
@@ -412,9 +412,9 @@
       <guid>https://github.com/paperclipai/paperclip</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>110,226</stars>
-      <forks>18,264</forks>
-      <addStars>451</addStars>
+      <stars>110,411</stars>
+      <forks>18,281</forks>
+      <addStars>412</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/34892728?s=40&amp;v=4</avatar>
@@ -450,9 +450,9 @@
       <guid>https://github.com/karpathy/nanochat</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>59,730</stars>
-      <forks>8,398</forks>
-      <addStars>325</addStars>
+      <stars>59,907</stars>
+      <forks>8,414</forks>
+      <addStars>321</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
@@ -488,9 +488,9 @@
       <guid>https://github.com/p-e-w/heretic</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>37,904</stars>
-      <forks>4,313</forks>
-      <addStars>404</addStars>
+      <stars>38,114</stars>
+      <forks>4,325</forks>
+      <addStars>420</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2702526?s=40&amp;v=4</avatar>

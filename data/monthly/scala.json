@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Monthly Trending",
   "description": "Monthly Trending of Scala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 17:11:15 GMT",
+  "pubDate": "Tue, 03 Nov 2026 01:39:42 GMT",
   "items": [
     {
       "title": "apache/spark",
@@ -10,9 +10,9 @@
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "44,385",
-      "forks": "29,608",
-      "addStars": "346",
+      "stars": "44,390",
+      "forks": "29,610",
+      "addStars": "348",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9700541?s=40&v=4",
@@ -49,7 +49,7 @@
       "languageColor": "#c22d40",
       "stars": "6,332",
       "forks": "1,187",
-      "addStars": "30",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/795990?s=40&v=4",
@@ -85,7 +85,7 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": "1,011",
-      "forks": "313",
+      "forks": "314",
       "addStars": "8",
       "contributors": [
         {
@@ -158,9 +158,9 @@
       "description": "Apache DataFusion Comet Spark Accelerator",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "1,310",
-      "forks": "407",
-      "addStars": "27",
+      "stars": "1,311",
+      "forks": "409",
+      "addStars": "28",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/934084?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "18,937",
+      "stars": "18,938",
       "forks": "2,800",
-      "addStars": "181",
+      "addStars": "180",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/140370?s=40&v=4",
@@ -265,7 +265,7 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": "544",
-      "forks": "215",
+      "forks": "214",
       "addStars": "1",
       "contributors": [
         {
@@ -301,9 +301,9 @@
       "description": "PredictionIO, a machine learning server for developers and ML engineers.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "12,518",
+      "stars": "12,519",
       "forks": "1,889",
-      "addStars": "8",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1388362?s=40&v=4",
@@ -403,7 +403,7 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": "1,741",
-      "forks": "520",
+      "forks": "521",
       "addStars": "5",
       "contributors": [
         {
@@ -441,7 +441,7 @@
       "languageColor": "#c22d40",
       "stars": "13,283",
       "forks": "3,530",
-      "addStars": "11",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/336161?s=40&v=4",
@@ -476,9 +476,9 @@
       "description": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "1,615",
-      "forks": "673",
-      "addStars": "16",
+      "stars": "1,616",
+      "forks": "674",
+      "addStars": "19",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11284395?s=40&v=4",
@@ -550,9 +550,9 @@
       "description": "Open-source high-performance RISC-V processor",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "7,362",
+      "stars": "7,363",
       "forks": "973",
-      "addStars": "81",
+      "addStars": "86",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14199583?s=40&v=4",
@@ -588,8 +588,8 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": "4,826",
-      "forks": "665",
-      "addStars": "31",
+      "forks": "666",
+      "addStars": "30",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8584418?s=40&v=4",
@@ -616,7 +616,7 @@
       "languageColor": "#c22d40",
       "stars": "2,337",
       "forks": "451",
-      "addStars": "10",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3807253?s=40&v=4",
@@ -683,9 +683,9 @@
       "description": "Apache OpenWhisk is an open source serverless cloud platform",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "6,803",
+      "stars": "6,804",
       "forks": "1,181",
-      "addStars": "10",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4959922?s=40&v=4",
@@ -722,7 +722,7 @@
       "languageColor": "#c22d40",
       "stars": "2,376",
       "forks": "1,033",
-      "addStars": "12",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26535726?s=40&v=4",
@@ -757,7 +757,7 @@
       "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "2,632",
+      "stars": "2,631",
       "forks": "540",
       "addStars": "4",
       "contributors": [

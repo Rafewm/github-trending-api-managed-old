@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 17:11:15 GMT",
+  "pubDate": "Tue, 03 Nov 2026 01:39:42 GMT",
   "items": [
     {
       "title": "deepseek-ai/DeepGEMM",
@@ -10,9 +10,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "9,142",
-      "forks": "1,500",
-      "addStars": "1,237",
+      "stars": "9,143",
+      "forks": "1,501",
+      "addStars": "1,209",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,371",
-      "forks": "3,807",
-      "addStars": "317",
+      "stars": "31,377",
+      "forks": "3,808",
+      "addStars": "326",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,840",
-      "forks": "1,687",
-      "addStars": "310",
+      "stars": "6,841",
+      "forks": "1,688",
+      "addStars": "318",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -122,8 +122,8 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "885",
-      "forks": "255",
-      "addStars": "25",
+      "forks": "254",
+      "addStars": "27",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "10,403",
-      "forks": "1,535",
-      "addStars": "194",
+      "stars": "10,404",
+      "forks": "1,537",
+      "addStars": "190",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,093",
+      "stars": "1,094",
       "forks": "250",
-      "addStars": "40",
+      "addStars": "44",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",
