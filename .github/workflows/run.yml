@@ -3,7 +3,7 @@ name: Fetch GitHub Trending
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 1,7,13,19 * * *'
+    - cron: '0 */4 * * *'
 
 concurrency:
   group: github-trending-publisher
